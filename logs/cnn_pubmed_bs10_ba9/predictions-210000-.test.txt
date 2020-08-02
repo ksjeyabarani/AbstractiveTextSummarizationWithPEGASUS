@@ -1,0 +1,436 @@
+-----:0
+The lifetime risk for development of hf among people with blood pressure .
+ > 160/90 mm hg is double that of those with bp  ⁇  140/90 mm hg .
+hf with preserved left ventricular function is observed in 30% to 50% of adult cases of hf .
+African - american adults have the highest rates ( 44% ) of hypertension in the world .
+-----:1
+The relationship between lycopene and prostate cancer incidence and progression has been complicated by challenging epidemiologic considerations .
+The measure of lycopene in the serum has theoretical advantages of accounting for absorption and not relying on study participants 'prior to food recall'
+Since lycopene comes largely from tomato sources, circulating lycopene level may be acting as a surrogate of tomato product intake .
+-----:2
+hepatitis c virus ( hcv ) infection is reported to have a prevalence of approximately 3% worldwide .
+Department of hepatology at the university of illinois had a database of over 1200 patients with chronic hcv infection .
+Medical records of these patients were reviewed in an effort to characterize patients with chronic hcv infection and pnalt .
+histological and clinical parameters for patients with pnalt as well as elevated alt were analyzed .
+-----:3
+The objective of this study is to evaluate donor blood procurement and the associated risk of transfusion transmissible viral infections in a tertiary health facility in south - south nigeria .
+the main sources of blood procurement are commercial ( remunerated ) blood donors , voluntary donors , and replacement donors .
+blood from commercial donors is usually obtained from outside of the hospital through several vendors .
+only 5% of voluntary donation has been achieved in some major donor centers in nigeria .
+-----:4
+The torque server implements a novel method for querying protein networks that does not require information on the interconnections .
+It was tested extensively on hundreds of queries of known complexes from a variety of species .
+-----:5
+disulfiram results in an increase of da concentrations in mesolimbic system resulting in psychosis .
+alcoholics who developed psychotic symptoms during disulfiram treatment are found to have low levels of amine and monoamine oxidase .
+risk factors for development of disulfiram related psychotic symptoms include past history or family history of psychosis .
+our patient has family history of schizophrenia in his father .
+his psychotic symptoms improved after stoppage of disulfiram and use of lorazepam tablet only without any additional requirement of anti - psychotic treatment .
+-----:6
+pyrethroid insecticides are considered ineffective in the chaco province of argentina .
+ vector control using pyrethroid insecticides is considered ineffective by the .
+authorities responsible for the chagas program of chaco province .
+-----:7
+distal radius fractures of the upper extremities account for approximately 17% of all fractures in patients visiting the emergency room .
+Low - energy distal radial fractures are predictive of future 15 years prior to osteoporotic hip and spine fractures .
+Study shows that bmd is lower in patients with a distal radius fracture in women younger than 60 years of age or over 70 years of age than in normal controls .
+-----:8
+rage is a splice variant of full - length rage or a shedding / cleavage product of membrane - bound rage .
+The srage can bind and sequester rage and thereby can reduce rage activation .
+Recent studies have suggested that low levels of circulating srage may be involved in the development of diabetes .
+-----:9
+toric intraocular lens ( iols ) implantation was introduced in the 1990 s as an option for astigmatism correction in cataract patients .
+58 new toric iol designs ( acrysof toric iol ; alcon , fort worth , tx ) have been found to be more stable and appear to be the preferred iol .
+The aim of this study is to report the clinical results of acrysof toric iols implantation for preexisting astigmatism correction .
+-----:10
+Small cell carcinoma of the bladder accounts for less than 1% of all bladder tumors .
+It presents with extravesical extension, perineural and vascular infiltration .
+One lymph node affected ( left obturator) out of 16 dissected .
+patient died 4 months after surgery due to pulmonary thromboembolism .
+-----:11
+phakomatosis pigmentovascular ( ppv ) is rare condition first described by aota et al .
+in 1947 .
+our patient had port - wine stain and nevus sturge - weber syndrome .
+few cases of ppv along with sturge - weber syndrome have been reported .
+-----:12
+Agnoprotein dna was found in 65% and 69% of 20 and 16 medulloblastoma ffpe specimens, respectively .
+ brucella sp dna was found only in the outer membrane protein gene ( omp31 ) of brucella species .
+ brucella sp dna was found in brains of patients who died of medulloblastoma as well as brains of patients without evidence of cns tumors .
+-----:13
+centers for disease control and prevention estimate that more than 2 million individuals in the united states develop illness resulting from antibiotic - resistant infections on an annual basis .
+Increasing multidrug resistance coupled with cessation of antibiotic discovery programs by most major pharmaceutical companies .
+-----:14
+irregularities in the morphology of the femoroacetabular articulation have been implicated as a possible source of hip pain in young athletes .
+The purpose of this study was to define associated pathologies and determine if professional athletes could return to high - level athletics following arthroscopic decompression of fai .
+-----:15
+The current study is a cross - sectional study which was conducted for assessing the nutritional status of children under 5 years old in salmas district .
+The statistical population included 059-month - old children residing in the cities and villages of salmas .
+Children being mentally and physically retarded and having problems in terms of anthropometry were removed from the study and replaced by other children .
+-----:16
+neurofibromatosis type 1 ( nf-1 ) is an autosomal dominant disorder affecting 1 in 25003500 individuals .
+pnf is usually found along the course of a major nerve trunk .
+It usually involves one large segment of the body and may involve both sides of the body either symmetrically or asymmetrically .
+-----:17
+malignant melanoma rarely affects the breast , accounting for less than 5% of all malignant melanomas .
+malignant melanoma of the breast shows similar clinical features to melanomas arising from other cutaneous areas .
+it follows different metastatic patterns than do primary carcinomas of the breast and require a different therapeutic approach .
+-----:18
+The integrity and quality of rna was determined by evaluating the a260/280 absorbance ratio .
+The raw cy5 intensity signals produced by each of the microarrays were captured using a molecular devices axon 4100a scanner .
+The data from all the arrays of each experimental set were analyzed using rosetta resolver system .
+-----:19
+periprosthetic joint infection ( pji) is a devastating complication seen in total joint science ( tja ) patients .
+The symptoms of pji are often nonspecific, which makes the diagnosis of pji quite challenging .
+-----:20
+corneal melting and perforation with iris prolapse was noted in the right eye .
+serratia marcescens is an emerging opportunistic pathogen noted for causing urinary .
+, respiratory, blood stream, andocular infections .
+It is possible that s. marcescens in the purulent discharge directly invaded the cornea with superficial punctate erosions .
+-----:21
+microleakage is one of the most important reasons for the secondary decay .
+microleakage occurs between cavity wall and restorative materials .
+The present study was designed to evaluate the effect of ethanol concentration as a solvent on the microleakage of dental composite restoration .
+-----:22
+The nuclear ribonucleoproteins ( hnrnps) comprise a group of important regulators engaged in these cellular processes .
+Recent interest is put on the roles of various rna - binding motifs and their subsequent roles in governing cellular activities .
+The newly cloned and expressed cdna of previously unknown member of the hnrnp a / b family of proteins is presented here .
+-----:23
+macrolides , lincosamides , and streptogramins ( mls) are usually considered together because most share overlapping binding sites on the 50s subunit of the ribosome .
+Many bacteria carry acquired resistance genes which confer resistance to more than one drug within this group .
+tetracyclines interact with the bacterial ribosomes by reversibly attaching to the ribosome which blocks protein synthesis .
+-----:24
+We describe a case of pseudozyma aphidis fungaemia with invasive fungal pneumonia after reinduction chemotherapy for acute leukaemia .
+The patient had no respiratory symptoms .
+Infection was suspected in the right lower lung field on the chest radiograph d9 .
+-----:25
+diabetic patients with esrd had a 10-fold increased risk of lea in comparison to diabetes patients without renal insufficiency .
+fu was defined according to the clinical findings as a full thickness skin break below the level of malleoli .
+major amputations were defined as amputations to the ankle joint .
+minor amputations were defined as those through or distal to the ankle joint .
+Need for 3 vascular accesses ( due to mechanical obstruction , poor flow , or infection ) had been analyzed .
+-----:26
+dcm is the most common form of primary cardiomyopathy .
+At least 40 disease genes have been reported to be associated with familial dcm .
+scn5a gene encodes the alpha subunit of the major sodium channel in the heart .
+-----:27
+High speed spectral domain optical coherence tomography offers a noninvasive tool to evaluate retinal microstructural changes in a number of eye pathologies .
+Studies have shown that surgery is best done during normal working hours .
+given the pressures on theatre use .
+we discuss two cases where spectral domain oct and an understanding of the histological changes have enabled a clearer diagnosis and planning of treatment .
+-----:28
+Studies have shown that aspartic acid and serine are the two amino acids most susceptible .
+to spontaneous isomerization .
+The mechanism by which l - asp converts into l - isoasp , d - isoasp , and d - asp has been studied previously and is known to proceed via .
+nonenzymatic formation of a tautin ring .
+-----:29
+Combination of obesity and hypertension places patients at a higher risk of hypertensive end - organ damage and vascular events .
+Epicardial adipose tissue is related to visceral fat, rather than total adiposity .
+ elevated bp is associated with ectopic fat accumulation in the intrathoracic and epicardial areas .
+epidemiological studies have found that epicardial fat is two to three times more common among females than males .
+-----:30
+A dental prosthesis must show stable durability , aesthetic value , precise function , and convenient use .
+conventional manufacturing methods for a prosthesis is a series of processes that includes taking an impression of the patient 's oral cavity .
+An automated cad / cam system was introduced to the dental field .
+The aim of this study was to evaluate whether the marginal and internal gap of a prosthesis made according to the am method is within the clinically allowable range .
+-----:31
+This may be spontaneous or secondary to mechanical factors like vigorous scratching or combing the hair .
+the pubic and thigh regions are most frequently involved since curliness of the hairs in those areas predisposes them to knotting .
+trichonodosis must be considered when patients with kinky hair complain of hair loss or breakage .
+-----:32
+The cumulative dose of mitoxantrone was initially limited to 100 mg / m and later on extended to 140 mg / m in selected cases .
+due to potential side effects on the heart and bone marrow the cumulative dose of mitoxantrone was initially limited to 100 mg / m .
+we report about serial cardiac evaluation in 30 consecutive patients before, during, and after mitoxantrone treatment .
+-----:33
+The ubiquitously expressed protein phosphatase 2a (pp2a) has been proposed as a target for the treatment of a number of pathologies .
+This review will focus on emerging understanding of pp2a substrate specificity .
+-----:34
+nonalcoholic fatty liver disease ( nafld) is one of the most common chronic liver diseases in the worldwide .
+It is associated with chronic diseases such as diabetes and heart disease .
+Vitamin d is traditionally known as a regulator of calcium and phosphorus metabolism .
+Several studies have confirmed the relationship between serum vitamin d levels and inflammation due to the role of inflammation in nafld .
+The purpose of this study was to investigate the effect of vitamin d supplementation on inflammation in patients with nafld .
+-----:35
+transurethral resection of the prostate ( turp ) is still viewed as the benchmark for surgical therapies for benign prostatic mortality ( bpe )
+ktp - is considered to be easier to learn and perform than tur and competence occurs following 5 - 20 procedures .
+we performed a prospective, randomized study to examine the efficacy and safety profile of ktp - when compared to standard turp .
+-----:36
+pulmonary extramedullary hematopoiesis being described as a rare etiological factor .
+Causes are multifactorial .
+with extramedullary pulmonary hematopoiesis being described as a rare etiological factor .
+-----:37
+Human cells show a different ddr during mitosis than in other cell cycle phases .
+During mitosis, dsbs on mitotic chromosomes do not trigger cell - cycle delay or arrest .
+The sensitivity to ionizing radiation is higher in mitotic cells than in interphase cells .
+-----:38
+oral melanoma is an extremely rare tumor arising from uncontrolled growth of melanocytes found in the basal layer of oral mucous membrane .
+It occurs between 30 and 90 years of age, with a higher incidence in the 6th decade with a mean age of 56 years .
+the delayed detection may be the cause for the poor prognosis with a 5-year survival being between 15% and 38% .
+-----:39
+Age related macular degeneration ( amd) is a particularly prevalent cause of blindness among elderly persons .
+More than 27 million people globally are blinded by amd .
+-----:40
+71-year old caucaian male with dilative cardiomiopathy was admitted to our hospital for the evaluation of a suspected liver disease .
+laboratory findings revealed a slight anemia ( hemoglobin level of 12,5 g / dl , hematocrit of 38% .
+red blood cells count of 3,9 mil / mm )
+ultrasound showed multiple small hypodense and hyperechoic lesion .
+some cystic lesions with comet - tail echoes .
+biggest cyst measured 8 mm in the ct segment .
+corroborating data from these imaging techniques with 6 month follow up, the final diagnosis was biliary hamartoma .
+-----:41
+The study examined the occurrence of human rights violations among msm living in lagos in 2012 before the same sex marriage prohibition bill was signed into law .
+Men who have sex with men were responsible for 10% of all new infections that occurred in the country within that time period .
+17.2% of msm were living with hiv in 2010 compared with the national prevalence of 4.1% .
+-----:42
+nursing will become an aged society when 14.4 % of its population comprise the elderly and a super - aged society by 2026 .
+the korean government introduced a new social insurance scheme for long - term care ( ltc) in 2008 .
+the ltc insurance program provides social services with a few functional limitations .
+-----:43
+Extrahepatic portal venous obstruction ( ehpvo ) is accompanied by replacement of the extrahepatic portal vein .
+ehpvo has been reported to be the most common cause of upper gastrointestinal bleeding ( ugib ) in children .
+It is also a common cause of variceal bleeding in adults .
+in western countries .
+ehpvo is second only to cirrhosis as a cause of portal hypertension .
+-----:44
+56-year-old man with orthopnea and paroxysmal nocturnal dyspnea .
+Also had rapid atrial fibrillation with a pulse rate of 130/min .
+Trans - esophageal echocardiography showed no thrombi in the left atrial appendage .
+A 1.5 cm tear was discovered in the left ventricular apex .
+The patient was hemodynamically stable but was discharged to the intensive care unit in deep coma .
+His consciousness improved the next day, so that his glasgow coma score was 6 ; the day after, it reached 9 .
+-----:45
+The prevalence of mes in gulf cooperation council countries is ranked amongst the highest in the world .
+The risk of mes is higher amongst arab women ( 1355% ) compared to arab men .
+It is 18% higher in women in oman [ 8 , 9 ] , 55% in qatar , 22% in united arab emirates , and 13% in saudi arabia .
+-----:46
+The aim of this study was to determine the role of educational intervention ( patient - based teaching) to improve the prescribing skill of ii year medical students .
+five common clinical conditions were chosen for teaching prescription writing to both the groups .
+mean scores obtained by both the groups for the five prescriptions were analyzed using unpaired t - test and the individual parameters in the 14-point score were compared .
+-----:47
+contacts were found by outreach workers and a disease intervention specialist from the east - african community .
+patients were symptomatic and had findings indicating infectiousness .
+risk factors for tb include birth in a country with high tb prevalence ( 2 ) and incarceration ( 8)
+although most patients in this outbreak were foreign - born and had histories of incarceration .
+-----:48
+hvisas had been isolated in many countries including those in south east asia .
+Hospital kuala lumpur is the largest hospital in Malaysia with the highest mrsa burden in the country .
+-----:49
+We report the first case of sarcoid - like lung granulomas in a hemodialysis patient treated with vildagliptin .
+The patient had no pets, was not a smoker, had no experience of traveling overseas or allergies to drugs or foods .
+due to these off - target mechanisms, the use of dpp-4 inhibitors may result in unexpected side effects related to immunological responses .
+-----:50
+A total of 448 respiratory specimens were obtained from 448 patients ( 258 male patients and 190 female patients ) with rtis and fevers in a virus surveillance system in osaka , Japan .
+The mean sd age of the patients was 41.4 53.7 months ( range  ⁇  1404 months )
+We sequenced viral protein 4 ( vp4 ) and vp1 genes .
+-----:51
+dysphagia aortica is classically seen in elderly women with short stature who have hypertension and kyphosis .
+an 86-year - old woman presented with worsening nausea and vomiting .
+because of her progressive dysphagia to solids for the last 6 months .
+ computed tomography ( ct ) of the chest demonstrated an enlarged , tortuous aorta .
+the diameters of the ascending aorta , the descending thoracic aorta , and the proximal abdominal aorta were 7 cm , 6 cm , and 5.3 cm .
+-----:52
+laparoscopy is an attractive technique for diagnostic and therapeutic measures in bta .
+Previously all patients with bta ended up in laparotomy and were managed according to the organ injuries .
+-----:53
+transdermal iontophoresis is an application of an electrical potential that maintains a constant electric current across the skin .
+It uses an electrode polarity as the charge on the drug to drive ionic drug molecules into the body .
+the drug can be delivered either in solution formulation or through loading on to the hydrogel patches .
+-----:54
+Rheumatoid arthritis ( ra ) is a chronic, systemic, autoimmune disease .
+It is the most common form of chronic joint inflammation affecting 0.51% of the UK population .
+Patients typically suffer severe joint pain, reduced muscle strength, and impaired physical function .
+-----:55
+dietary sugar intake , in the form of sucrose or high - fructose corn syrup ( hfcs ) has dramatically increased and correlates with a rise in obesity .
+It is not clear whether the fructose - induced metabolic disturbances observed in human and animal studies are due to fructose itself or the associated increase in energy intake .
+-----:56
+The aim of this study was to examine whether a passive stretch stimulus by means of a functional appliance induces changes in the fiber composition of masticatory muscles .
+-----:57
+The study was conducted according to the ethics standards of the world medical association s declaration of helsinki .
+the 100 patients consisted of 23 males ( 23% ) and 77 females ( 77% ) with a median age of 60 years .
+evidence of tumor recurrence was provided by a computed tomography scan or a magnetic resonance image showing a meningioma in a location contiguous with the previous operation site .
+bone / soft tissue invasion was observed in 12 cases, brain invasion was observed in five cases, and both bone / soft tissue invasion and brain invasion were observed in one case .
+histologically, the 100 cases consisted of meningothelial types ( n=32 ) , transitional types ( n=32 ) , fibrous types ( n=16 ) , angiomatous types ( n=13 ) , psammomatous types ( n=2 ) , microcystic types ( n=16 ) , and one metaplastic type ( n=1 )
+-----:58
+Patient 1 was diagnosed with hiv infection in 2005 at 13 years of age .
+physical examination revealed widespread flat , nonscaly , hypopigmented macules from 1 to 15 mm .
+patient 3 was diagnosed with hiv infection in 2007 at the age of 15 .
+patient 4 was found to be infected with hiv in 2002 when he was 13 years old .
+physical examination revealed widespread flat , nonscaly , hypopigmented macules from 1 to 15 mm .
+-----:59
+A problem in clinical laboratories is maintaining the stability of serum analytes during sample storage .
+Samples are usually stored in the door ( 48c ) of a refrigerator for short durations or in a deep freezer ( 20c ) for longer time periods .
+The stability of 72 analytes following prolonged serum - cell contact has been previously described .
+The effects of prolonged storage on the stability of 31 analytes in plasma and serum separated from cells with a gel barrier have also been reported .
+-----:60
+The random sample comprises caucasian preadolescents ( 121 girls , 146 boys ) and 330 caucasian adolescents ( 164 girls , 166 boys )
+The eyhs is based study of risk factors for future cardiovascular disease among preadolescents ( 910 years old ) and adolescents ( 1516 years old )
+-----:61
+The study was restricted to the five eukaryote genomes sequenced so far : homo sapiens , drosophila melanogaster , arabidopsis thaliana , caenoitis elegans and saccharomyces cerevisiae .
+Results were confirmed using a repository of databases called the proteome analysis database ( abbreviated here as pad )
+-----:62
+The study was approved by the institutional review boards at the university of virginia and irkutsk state medical university .
+precursor isolates were grown on lowenstein - jensen agar slants .
+drug susceptibility was tested by absolute concentration method on agar slants .
+multidrug resistance was found for 61 patients ( 36 [ 28% ] from yakutia and 25 [ 24% ] from irkutsk .
+-----:63
+Younger prostate cancer patients have great interest in and need for erectile function ( ef ) after surgery .
+Recent advances in surgical techniques have motivated more prostate cancer patients to consider penile rehabilitation .
+Early penile rehabilitation with oral administration of phosphodiesterase type 5 inhibitors ( pde5-is) can maximize penile recovery in ed patients after rp .
+However, clinical studies on the daily administration of low - dose pde5-is and the effect of such treatment on ed patients after rp are sorely lacking .
+-----:64
+integration of several quantum dot ( qd ) devices on a single chip offers the advantages of compact size , high speed and low optical losses .
+We present results demonstrating differential band gap shift and the effect on carrier confinement and energy level spacing in qds due to ion implantation induced intermixing .
+Then we report on multi - color qd lasers and discuss the effect of intermixing induced changes in confinement and energy level separation in the active region on the performance of the devices .
+-----:65
+Lincomycin, clindamycin and pirlimycin are antibiotics known as lincosamides .
+Lincomycin is a natural antibiotic produced by streptomyces Lincolnensis .
+Clindamycin and pirlimycin are synthetic derivatives of lincomycin .
+-----:66
+Penile squamous cell carcinoma ( pscc) is a relatively rare malignant tumor .
+The optimal chemotherapeutic regimen is unknown .
+cisplatin - containing chemotherapy is the mainstay of combination chemotherapy .
+mohs paste was applied every morning with a surrounding gauze to avoid attaching with normal skin .
+-----:67
+N. americanus accounts for the predominant etiology of human hookworm infection .
+A. duodenale occurs in more scattered focal environments .
+We describe a case of an 82-yr - old woman who suffered from severe chronic iron deficiency anemia by necator americanus infection .
+-----:68
+We studied the presence of hbov in patient feces in 527 episodes of acute gastroenteritis in children  ⁇ 3 years of age .
+No other intestinal pathogens were identified to rule out the possibility that this result could have been due to fecal contamination .
+-----:69
+renal dysplasia is characterized by structural disorganization of the renal tissue .
+multicystic dysplastic kidney is one of the most frequently identified congenital urinary tract abnormalities .
+Mcdk is often associated with other multisystemic disorders of known genetic etiologies .
+-----:70
+An estimated 10 million us adults have peripheral artery disease ( pad)
+Kidney function has also been associated with incident pad risk in a number of studies and is recognized as a pad risk factor .
+Evidence for an association between cystatin c and future risk of pad is sparse and conflicting .
+-----:71
+angiogenesis is the formation of new blood vessels by sprouting of pre - existing ones .
+ tumour blood vessels show many differences from normal vessels and are not genetically unstable .
+Vessel density has been proven to be a useful prognostic indicator but does not seem to be a good indicator of antiangiogenic treatment efficacy .
+Surrogate could include those related to the various steps of the angiogenic process .
+ variations in endothelial - cell survival , alterations in the endothelial - cell signaling .
+and variations in the number of circulating endothelial progenitor cells .
+-----:72
+245 patients in the icu underwent bedside pdt with a ciaglia blue rhino percutaneous tracheostomy set .
+pdt was not performed in patients aged under 18 years .
+Those with any pulsation palpated over the tracheostomy site .
+Patients with a history of surgery or radiotherapy in the cervical region .
+-----:73
+ranibizumab ( nveach, novartis , basel , switzerland ) is a monoclonal anti - vegf antibody fragment .
+It is registered for intravitreal injections in treatment of neovascular age - related macular degeneration ( amd)
+The aim of this paper is evaluation of functional and anatomical results of intravitreal ranibizumab injections and of exudative amd treatment course .
+-----:74
+The purpose of this study was to evaluate the effect of vital bleaching on the fluoride release of various types of glass ionomer restorations .
+Glass ionomer materials used were ketac fil ( conventional glass ionomer ) , photac fil ( resin modified glass ionomer ) .
+and f2000 ( poly acid modified composite resin )
+-----:75
+bronchoscopy has become an important tool not only for visualizing abnormalities, but also for biopsy / tissue sampling .
+mechanical complications of fiberoptic bronchoscopy include oro- or nasopharyngeal .
+ vocal cord , and airway trauma .
+bronchospasm , laryngospasm , pulmonary derecruitment / atelectasis , pneumothorax , airway hemorrhage .
+-----:76
+identification of metabolic syndrome is a simple measure of finding people with a clustering of risk factors .
+Individuals need more intensive lifestyle interventions at an early stage to delay the disease progression to a still higher - risk category .
+-----:77
+periodontitis ( pd) is a chronic inflammatory disease where resident cells and mediators induce destruction of the tooth supporting tissues .
+This is influenced by genetic and environmental risk factors .
+Environmental factors , including oral hygiene / bacterial plaque , smoking, and stress, play an important role in the expression of pd .
+-----:78
+Prostate cancer ( pca) is the second most common neoplasia in men worldwide .
+The incidence and mortality of pca are low and are reported to be about 1/8 of that in western countries .
+Some epidemiological investigations suggest the incidence of pca in asian men who migrant to the USA rapidly approaches that in western men within two generations .
+-----:79
+MEDulloblastoma is the most common pediatric brain tumor, with an incidence of  ⁇ 0.5/100,000 children  ⁇  15 years old .
+Micrornas ( mirnas / mirs) serve a role in tumorigenesis .
+gene expression is regulated by thousands of known mirnas .
+22 mirnas were upregulated and 26 mirnas were downregulated in the tumor tissue .
+ pathway analysis was used to analyze the regulatory network of the differentially expressed mirnas in medulloblastoma .
+-----:80
+The results will be used as a reference .
+for the further development of skin physical therapy .
+Electroacupunture ( ea ) was used at a frequency of 3 hz, with 5 seconds of on time and 2 seconds of off time .
+Low - level laser therapy ( lllt ) was used in two 15-minute sessions per week for six weeks .
+-----:81
+esc , acc , aha , and whf guidelines state that tat should not be longer than 60 min for assays of cardiac biomarkers .
+It reduced the time of analytical procedure from 18 min ( the standard version of the test ) to 9 min ( the short turn - around time version of the test .
+-----:82
+Most common pancreatic disorders associated with pancreatic panniculitis are acute or chronic pancreatitis .
+Other pancreatic disorders have been infrequently reported to be associated with pancreatic panniculitis .
+-----:83
+errors can occur in any phase of laboratory testing whether performed in a central laboratory or at the point - of - care .
+risk management is a way to reduce errors with poct .
+errors that occur more frequently have greater risk .
+errors that lead to greater harm also present greater risk .
+quality control is a means of detecting and preventing errors besides frequency and severity .
+ detectability is a third factor in the risk estimation equation .
+-----:84
+This is a retrospective cross - sectional survey involving students at the higher institute of sport and physical education in the city of sfax .
+data on age , weight , height , and smoking habits are collected routinely when students join the institute .
+Only students injured in the first or second year were taken into account .
+Students who were injured more than one time were taken into account as subjects with lbp only for their first injury .
+-----:85
+therapeutic hypothermia has been shown to provide neuroprotection against ischemic injury after cardiac arrest .
+Combination of hypothermia with sevoflurane post - conditioning does not confer additional anti - inflammatory effects .
+-----:86
+Radionuclides must be contained and isolated from future populations .
+Radionuclides will be transported through the engineered backfill .
+into groundwater and pose a long - term hazard to the biosphere and water resources .
+-----:87
+We have been able to detail the typical longitudinal variation of serum cytokines throughout pregnancy in this cohort of women .
+We first tested protein levels of a small number of individually stored serum aliquots from other subjects archived on this protocol .
+since we found detectable levels of cytokines in the pregnant serum samples that were within range of control samples .
+-----:88
+Damage to lipid membranes , proteins , deoxyribonucleic acid (dna ) and other cellular components caused by oxygen free radicals .
+Vitamin e is a lipid radical scavenger and especially protects polyunsaturated fatty acids within membrane phospholipids and in plasma lipoproteins .
+Vitamin e provides an easily donated hydrogen to the lipid reaction and an antioxidant radical is created .
+The percentage of body fat was significantly higher in the untrained group ( 22.1 % 5.9 ) in comparison to the trained group ( 16.2 % 4.9 )
+-----:89
+A newly diagnosed acromegaly patient aged 45-year - old woman was referred to our clinic for an ophthalmologic examination .
+tear igf-1 level was 750 ng / ml .
+ reference ranges of igf-1 in ages 4685 : 94166 ng / ml .
+-----:90
+estimates have indicated that 8% ( 18.7 million ) of adults in the united states currently have asthma .
+more than 300 million people are affected by asthma worldwide .
+patients with asthma may experience recurrent episodes of chest tightness , shortness of breath , coughing , and wheezing .
+-----:91
+enamel damage may be in the form of enamel cracks which may propagate during debonding .
+Traditional methods of bonding orthodontic brackets rely on acid etching to achieve adequate retention .
+Bond failure at the bracket - adhesive interface or within the adhesive is generally considered .
+safer than a fracture at the enamel - adhesive interface .
+-----:92
+osteopetrosis is known to result from defective osteoclast differentiation or function .
+Study of this disease has contributed to new understanding of functions associated with the skeleton .
+osteopetrosis is a generic name for a group of rare genetic diseases characterized by increased bone mass .
+-----:93
+We focus on cnvs which were observed at a high frequency ( 5.0% of the individuals ) in the population residing in hiroshima and nagasaki, Japan by acgh with bac - clones as targets .
+Results are not always consistent and it is likely that different human populations bear different cnvs .
+-----:94
+cerebral inflammation plays an .
+important role in the pathogenesis of secondary brain injury following .
+tbi .
+nrf2 is a key transcription factor that regulates .
+the cellular antioxidant response .
+nrf2 is sequestered in .
+the cytoplasm by the cytosolic regulatory protein keap1 .
+-----:95
+we are experiencing a rapidly expanding collection of clinical data from routine practice ambulatory and monitoring .
+clinicians must already make sense of a diverse variety of data input streams in order to make clinical decisions .
+big data in healthcare can not be a simple blind application of black - box techniques .
+big data in healthcare can not be a simple blind application of black - box techniques .
+-----:96
+16 hospitals that were included in the final analysis represented the 4 regions as follows : 16 ( 42% ) of 38 hospitals in the central region .
+6 ( 43% ) of 14 in the west , 4 ( 40% ) of 10 in the south , and 5 ( 33% ) of 15 in the southwest .
+of the hospitals included , 16% did not send a cumulative antibiogram but instead sent their data as a monthly report for a period from 3 months to 1 year .
+-----:97
+The aggregate hospitalization and death reporting activity ( ahdra) was established as part of an overall national surveillance strategy during the 2009 h1n1 pandemic .
+The ahdra was designed to track severe disease within states and territories to better characterize the focal nature of the pandemic .
+ aggregate influenza counts were used to calculate agespecific weekly and cumulative rates per 100 000 according to 2008 postcensal us population estimates .
+-----:98
+bilateral shoulder dislocation are most commonly posterior type .
+these are most commonly due to seizure disorder and electrocution .
+to best of our knowledge there are only few cases of similar kind are reported in literature .
+-----:99
+The nshd is a socially stratified birth cohort of 2547 men and 2815 women of white European descent born during 1 wk in 1946 .
+contact was made with 2661 ( 84% ) of 3164 eligible study members still alive and living in England .
+heights and weights were measured using standard protocols at ages 2 , 4 , 6 , 7 , 11 , 15 , 36 , 43 , 53 , and 6064 yr and were self - reported at ages 20 and 26 yr .

@@ -1,0 +1,855 @@
+-----:0
+hypertension and heart failure are two of the most common comorbidities in the world . 
+ the prevalence of hypertension among adults ages 18 years in 20052008 was 30.9% and was highest among persons ages 65 years ( 69.7% ) and non - hispanic blacks ( 44% ) . 
+ the american heart association estimates that the incurred costs of hypertension are more than $ 93.5 billion per year , and that cardiovascular disease and stroke for which hypertension is the predominant risk factor , account for 17% of the total annual health expenditures in the united states . 
+ hypertension and its sequelae , heart failure , are a progressive disease . 
+ evidence shows that less than half of patients with heart failure survive five years ( after diagnosis ) , and less than a quarter of them live ten years after their initial diagnosis . 
+ the overall u.s . 
+ adults with hypertension have the highest rates ( 44% ) of hypertension in the world and are more resistant to treatment . 
+ the relative incidence of heart failure is 50% higher in african americans , 3% of whom have heart failure , compared with 2% of the general population . 
+ the disastrous duo , hypertension and heart failure , should
+-----:1
+several chemoprotective properties of lycopene on prostate cancer have been proposed . 
+ these mechanistic studies have stimulated the examination of lycopene and its primary source , tomato products , on risk of prostate cancer . 
+ however , studies on lycopene and tomato product intake and prostate cancer incidence have yielded mixed results . 
+ the study of this relationship has been complicated by unique and challenging epidemiologic considerations in the measurement of lycopene and on the influence of prostate - specific antigen ( psa ) screening on prostate cancer incidence and progression . as with all epidemiologic studies , 
+ this paper briefly describes the methodology essential for conducting studies on the association between lycopene and prostate cancer incidence and provides an updated review of studies of lycopene and tomato products with prostate cancer risk .
+-----:2
+
+ background . 
+ hepatitis c virus ( hcv ) infection is reported to have a prevalence of approximately 3% worldwide . 
+ majority of patients with chronic hcv have a mild , asymptomatic elevation in serum transaminase levels with no significant clinical symptoms . 
+ around 25% of patients with chronic hcv have persistently normal alanine aminotransferase ( pnalt ) . 
+ objective . to characterize patients with chronic hcv infection and pnalt 
+ . methods . 
+ medical records of over 1200 patients with chronic hcv infection were reviewed . 
+ patients with biopsy proven hcv infection and a detectable hcv ribonucleic acid in blood were chosen . 
+ of these , patients with an alt at liver biopsy , at least one additional over the next 12 months , and liver biopsy slides available for review were identified . 
+ results . 
+ thirty - one patients had pnalt . 
+ patients with pnalt were older and had higher bmi . 
+ there was no difference in gender distribution , alcohol use , and dm status between patients with pnalt and those with elevated alt . 
+ histological
+-----:3
+background : blood transfusion is a life - saving procedure for the treatment and management of many diseases . 
+ transfusion of blood and blood products is associated with risks of transmissible infections such as human immunodeficiency virus ( hiv ) , hepatitis b virus ( hbv ) and hepatitis c virus ( hcv ) . 
+ the objective of this investigation is to evaluate donor blood procurement and the associated risk of transfusion transmissible viral infections in a tertiary health facility in south - south nigeria.materials and methods : records of blood transfusion unit from 1 january 2009 to 31 december 2009 were reviewed in order to identify the methods of donor blood procurement and screening results for hiv , hbv and hcv . 
+ for every unit of blood , we studied the method of procurement ( commercial , replacement or volunteer blood donation ) and screening outcome.results:a total of 2,832 units of blood were procured during the study period . 
+ the major sources of blood procurement were commercial donors ( 55.3% ) , voluntary donors ( 17.3% ) , and replacement donors ( 8.3% ) . 
+ only 5.3% of the blood units were screened for hiv , hbv and
+-----:4
+the torque web server implements a novel method for querying protein networks that does not require information on the interconnections ( topology ) among the query proteins . 
+ this makes torque applicable in broader scenarios , such as querying complexes or pathways whose topologies are not completely known , or even when querying from species for which protein interaction information is not available . 
+ the server implements three approaches : a dynamic programming method utilizing color coding , integer linear programming and a fast heuristic based on shortest paths . 
+ it combines three approaches : a dynamic programming method utilizing color coding , integer linear programming and a fast heuristic based on shortest paths . 
+ torque automatically selects the best method to apply at each stage and outputs the highest scoring match . 
+ the output includes a list of match proteins , a graph of the query network structure induced by the match proteins and a score based on the similarity between the match proteins . 
+ the torque server is available at http://torque.cmbi.umd.edu .
+-----:5
+disulfiram is a commonly prescribed drug for alcohol dependence . 
+ disulfiram s major metabolite diethyldithiocarbamate is an inhibitor of dopamine - betahydroxylase , an enzyme that catalyzes the metabolism of dopamine ( da ) to norepinephrine ( ne ) in the central nervous system . 
+ by inhibiting this metabolic pathway from da to ne in the central nervous system , disulfiram results in an increase of da concentrations in mesolimbic system resulting in psychosis . 
+ we present a case of 32-year - old male who developed psychosis with the use of disulfiram . 
+ our case highlights the relevance of a careful history of patient s symptoms and family history that should be performed before starting treatment with disulfiram and caution should be taken while prescribing disulfiram for patients with personal and familial antecedents of psychosis .
+-----:6
+the aim of this study was to evaluate the toxicity of the insecticide imidacloprid 
+ ( ehrrenstorfer ) in two field populations of trypanosoma infestans 
+ ( t. infestans ) from the chaco province , argentina , and a susceptible 
+ reference population . 
+ the topical application bioassays and the spot - on bioassays 
+ were performed at 0.0025 - 0.5 mg / ml . 
+ the mortality values were evaluated after 24 h , 48 h and 
+ 72 h. the delayed toxicity tests were performed on first instar nymphs after feeding 
+ on pigeon blood . 
+ the spot - on bioassays showed a mortality of 57.5% after 24 h , 52.5% after 48 h and 
+ 52.5% after 72 h. the ld50 values obtained for the laboratory - susceptible 
+ population ( 0.13 ( 0.11 - 0.15 ) ng / insect ) were not significantly different from that of the 
+ susceptible population ( 134 ng / insect ) . 
+ the results of the surface bioassays 
+ showed that the topical application of imidacloprid produced a
+-----:7
+the aim of this study was to compare the bone mineral density ( bmd ) and prevalence of osteoporosis of postmenopausal korean women with low - energy distal radius fractures with those of aged - matched normal korean women . 
+ we retrospectively reviewed 206 patients who visited our hospital between march 2006 and march 2010 because of distal radius fractures . 
+ bmd was measured at the spine and proximal femur using a lunar prodigy advance dual energy x - ray absorptiometry . 
+ patients were divided into three groups by age ; group 1 ( 50 - 59 years ) , group 2 ( 60 - 69 years ) , and group 3 ( 70 - 79 years ) . 
+ the bmd values and prevalence of osteoporosis in each age group were compared with those of age - matched control . 
+ the bmd values and prevalence of osteoporosis of the control were based on the reference data from healthy community dwelling korean women , 20 to 79 years of age . 
+ the prevalence of osteoporosis was significantly higher in group 3 than in group 1 ( p ⁇ 0.001 ) . 
+ the bmd values and prevalence of osteoporosis of group 1 were lower than those of group 2 ( p ⁇ 
+-----:8
+
+ background . 
+ the receptor for advanced glycation end products ( rage ) is a cell surface receptor of immunoglobulin superfamily . 
+ rage activation through ligand binding can induce chronic inflammation and oxidative stress , and it has been linked with diseases like diabetic complications , cardiovascular and neurodegenerative diseases , and cancer . 
+ a soluble form of rage ( srage ) , which is a splice variant of full - length rage or a shedding / cleavage product of membrane - bound rage , has been found circulating in the plasma . 
+ objective . to assess whether srage levels alter in prediabetes and correlate with insulin resistance ( ir ) and beta cell function in prediabetes and newly diagnosed type 2 diabetes mellitus ( t2 dm ) 
+ . methods . 
+ a total of 158 participants were recruited in this cross - sectional study . 
+ participants were grouped as control ( normoglycemic ) , prediabetes , and newly diagnosed t2 dm based on their blood glucose ( fasting and 2 hrs after 75 grams glucose load ) and hba1c levels . 
+ fasting serum srage levels were measured by elisa .
+-----:9
+purposeto report the clinical results of acrysof toric intraocular lens ( iol ) implantation for preexisting astigmatism correction and compare the postoperative rotation of the iols one and six months postoperatively.patients and methodsthis prospective study included eyes that had cataract surgery and had preoperative corneal astigmatism greater than 1.00 diopters ( d ) . 
+ inclusion criteria were : cataract , age 70 years or younger , and preoperative regular corneal astigmatism greater than 1.00 d. the final visual acuity ( va ) , spherical equivalent ( se ) , intraocular pressure ( iop ) , and refraction were recorded . 
+ the iol was rotated to its final position by exactly aligning the toric reference marks with the limbal implantation axis marks.resultsthe study included a total of 60 eyes of 40 patients . 
+ the mean age of the patients was 76.5 years . 
+ the mean preoperative corneal astigmatism was 1.50 d and the mean postoperative astigmatism was 0.50 d. the mean va was 20/40 or better in all eyes . 
+ the mean se was 1.00 d preoperatively and 0.50 d postoperatively . 
+ the mean preoperative and postoperative se were 1.00 d and 
+-----:10
+small cell carcinoma of the bladder is a very rare and aggressive histological subtype , and accounts for less than 1% of all bladder tumors . 
+ its management is challenging because it presents in the same way of other more frequent histological types , but with a high metastatic power . 
+ multimodal treatment , including radical cystectomy , chemotherapy and radiation therapy should be initiated as soon as possible for a chance of cure and to improve survival . 
+ this kind of carcinoma presents metastasis and has a poor prognosis . in the present article 
+ we report a case of a male patient with small cell carcinoma of the bladder and the development of the condition , and we aim to show the most current management of this tumor , which has no consensus for treatment in the international literature for being extremely rare .
+-----:11
+phakomatosis pigmentovascularis ( ppv ) is a rare condition characterized by cutaneous , ocular , and central nervous system involvement . 
+ ppv type i , iii , and iv have very rarely been reported in literature . 
+ systemic syndromes which may be associated with it are sturge - weber syndrome , nevus of ota , and klippel - trenaunay syndrome . 
+ we are presenting a rare case of ppv with sturge - weber syndrome and klippel - trenaunay syndrome which is so far very rare .
+-----:12
+background : medulloblastoma is one of the most common malignant tumors of the central nervous system ( cns ) in children . 
+ an infectious association with medulloblastoma was proposed in 2002 . 
+ del valle et al demonstrated the presence of the human polyoma virus ( jcv ) t antigen ( tag ) , and agnoprotein dna in 65% and 69% of 20 and 16 medulloblastoma formalin - fixed , paraffin - embedded ( ffpe ) specimens , respectively . 
+ pcr testing for brucella sp dna in medulloblastoma tissue was negative in a previous study.materials and methods : in order to assess if brucella may have any association with medulloblastoma , we retrieved ffpe blocks from brains of patients who died of medulloblastoma as well as blocks of brains from patients who died with other malignancies in the cns , and brains of patients without evidence of cns tumors.results:in all 52 ffpe autopsy samples of brain tissues , brucella sp dna was detected in only one of 31 ffpe blocks from patients who died from malignancy in the cns . 
+ no brucella dna
+-----:13
+background : little is known about the activity of topical agents against multidrug - resistant organisms ( mdros ) , some of which are likely to be compromised because they contain agents to which resistance has already been reported.objective : the current study was designed to assess the in vitro activity of bensal hp , a topical ointment with antimicrobial properties , against a broad range of contemporary pathogens , including mdros.methods : the in vitro activity of bensal hp was assessed against 184 bacterial and fungal isolates from culture collections at creighton university , omaha , nebraska ; the alegent creighton hospital , omaha , nebraska ; and the university of louisville hospital , louisville , kentucky . 
+ the bacterial isolates were from us and international sources and included well characterized non - mdro and mdro isolates of enterobacteriaceae , pseudomonas aeruginosa , acinetobacter baumannii , s aureus , including methicillin - resistant staphylococcus aureus ; and enterococcus faecalis , including vancomycin - resistant enterococcus . 
+ the fungal isolates were candida albicans
+-----:14
+femoroacetabular impingement ( fai ) is a condition characterized by abnormal articulation of the proximal femur and acetabulum . 
+ the purpose of this study was to define associated pathologies and determine if professional athletes could return to high - level athletics following arthroscopic decompression of fai . 
+ a retrospective chart review was performed of 45 professional athletes presenting for arthroscopic treatment of fai . 
+ all athletes presented with debilitating hip pain and an inability to participate in their sport . 
+ all were diagnosed with fai based on physical and radiographic examination . 
+ all athletes underwent arthroscopic decompression of fai . 
+ the average age of the athletes was 29.3 years ( range , 17 to 43 years ) . 
+ the average follow - up period was 28.5 months ( range , 6 to 48 months ) . 
+ all athletes were able to return to pre - operative sports activities . 
+ the most common pathologies associated with fai in this group of athletes were acetabular retroversion ( n = 24 ) and coxa profunda ( n = 15 ) . 
+ all patients were able to return to pre - operative sports activities . 
+ no patients were able to
+-----:15
+
+ background . 
+ malnutrition is one of the most important causes for improper physical and mental development of children . 
+ the aim of this study was to assess the prevalence of malnutrition in under - five - year - old children in salmas district . 
+ methods . 
+ this cross - sectional study was conducted from 16 until 30 october , 2011 . 
+ the statistical population included 059-month - old children residing in the cities and villages of salmas . 
+ height and weight of the children were measured and their anthropometric indices were collected . 
+ results . 
+ the prevalence of malnutrition in the study was 8.7 per 1000 children . 
+ the prevalence of underweight , stunting , wasting , overweight , and obesity was , respectively , 9.6% , 4.2% , 1.7% , 0.8% , and 0.6% . 
+ the prevalence of overweight was 4.7% , 2.4% , 0.8% , and 0.6% . 
+ conclusion . 
+ the results of this study showed that the prevalence of malnutrition in under - five - year - old children in salmas district was high . 
+ therefore , health and
+-----:16
+neurofibromatosis type 1 ( nf-1 ) is an autosomal dominant disorder . 
+ plexiform neurofibroma ( pnf ) is a rare variant of nf-1 . 
+ we report a case of nf-1 with pnf in the scalp of a 5-year - old boy . 
+ the pnf was seen as an isointense on t1-weighted and heterogeneously hyperintense mass on the t2-weighted image and heterogeneous enhancement mass on postcontrast study . 
+ there were multiple small underlying bone defect in the right occipital region . 
+ the excision was total , and cerebrospinal fluid leak was seen on bone defect site , so periosteum was buried on bone defect site for preventing the csf leak . 
+ histopathological findings in hematoxylin and eosin staining were showing focal myxoid generation and spindle cells , with serpentine nuclei and wispy cytoplasmic border suggestive of pnf . 
+ the patient was diagnosed as having nf-1 with pnf . 
+ only nine cases of occipital pnf have been reported in the literature . 
+ the scalp is a rare site for pnf . 
+ the authors report
+-----:17
+malignant melanoma rarely affects the breast , accounting for less than 5% of all malignant melanomas . 
+ primary cutaneous malignant melanoma of the breast is a rare tumor , accounting for less than 5% of all malignant melanomas . 
+ herein , we report a case of primary cutaneous malignant melanoma of the breast in a 59-year - old woman and discuss the clinicopathologic features and treatments in correlation to the literature data .
+-----:18
+irradiation is a common tool used to induce differentiation and stratification of the keratinocytes of the oral cavity . 
+ this article describes the profiling of the transcriptomic data of human oral tissues that were irradiated with 0 , 2 , or 12 gy . 
+ the data was analyzed using rosetta resolver system . 
+ the raw intensity data was analyzed using p - values , the normalized data was analyzed using pearson correlation , and the average expression values were analyzed using david bioinformatics . 
+ the data was deposited in gene expression omnibus ( geo ) database with the dataset identifier gse50791 .
+-----:19
+background : periprosthetic joint infection ( pji ) is a devastating complication seen in total joint arthroplasty ( tja ) patients . 
+ the symptoms of pji are often nonspecific , which makes the diagnosis of pji quite challenging . 
+ the aim of this study was to investigate the diagnostic accuracy of synovial fluid c - reactive protein ( crp ) for diagnosing pji.methods:we searched the electronic databases including pubmed , embase , web of science , and cochrane collaboration 's diagnostic test accuracy methods . 
+ we compared synovial fluid crp with the consensus - based guidelines.results:we found that synovial fluid crp was significantly more accurate than serum crp for diagnosing pji ( area under the curve [ auc ] , 0.85 ; 95% confidence interval [ ci ] , 0.740.93 ; p  ⁇  0.001 ) . 
+ the auc of synovial fluid crp was also higher than that of serum crp in patients with pji ( auc , 0.90 ; 95% ci , 0.770.96 ; p  ⁇  0.001 ) . 
+ however ,
+-----:20
+we report a case of corneal perforation with preseptal cellulitis in a patient treated with systemic chemotherapy for acute lymphocytic leukemia . 
+ a 17-yr - old female patient undergoing systemic chemotherapy for acute lymphocytic leukemia was referred to our hospital due to swelling and pain of the right upper lid for two days . 
+ the patient was diagnosed with preseptal cellulitis caused by staphylococcus marcescens . 
+ the patient underwent a right hemiplegicopexy . 
+ seven months after surgery , visual acuity in the right eye was 20/300 , and intraocular pressure was 14 mmhg .
+-----:21
+background : microleakage is one of the most important reasons for the secondary decay , inflammation , and necrosis of the pulp . 
+ the purpose of this study was to evaluate the effect of ethanol concentration as a solvent in experimental acrylate - based dental adhesives containing polyhedral oligomeric silsesquioxanes ( poss ) , on the microleakage of dental composite restoration.materials and methods : in this experimental study , 42 class v cavities were prepared in human premolars and randomly divided into 6 experimental groups of 7 . in group 1 , 
+ adper single bond was used as the control . in groups 2 through 6 , the adhesives were adper single bond ( sb ) , xeno iii ( xe ) , and adper single bond plus ( sb+e ) , and ethanol ( 0% , 20% , 31% , 39% , and 46% by weight ) was used as the solvent . 
+ cavities in all control groups were restored with filtek z350 nanocomposite . 
+ after thermocycling , the teeth were sectioned buccolingually and evaluated under scanning electron microscope . 
+ the data were analyzed using one -
+-----:22
+the heterogeneous nuclear ribonucleoproteins ( hnrnps ) comprise a group of important regulators engaged in mrna biogenesis and metabolism . 
+ numerous hnrnps are involved in the development and function of autoimmune disorders . 
+ the present work describes the cloning and expression of a novel cdna encoding the hnrnp b2 . 
+ the protein is characterized by its rna - binding properties and tissue - specific gene expression profiles . 
+ comparative analysis of the sequences of diverse autoantigens revealed that the hnrnp b2 is highly conserved across species . 
+ the presented cdna sequence is used as a template for further functional characterization of the protein .
+-----:23
+macrolides , lincosamides , and streptogramins ( mls ) are an important class of antibiotics for treating infectious diseases . 
+ mls resistance genes are acquired by mutation from other bacteria or from tetracyclines which interact with the ribosome . 
+ the first broad spectrum tetracyclines were erythromycin , erythromycin c , erythromycin d , lincosamides , streptogramin a , streptogramin b , pleuromutilins , oxazolidinones , and phenicols . 
+ tetracyclines are now considered the most difficult class of antibiotics to develop against because they interact with the ribosome and are more difficult to target for development . 
+ mls and tetracycline resistance genes have been assigned new gene names which will help in future drug development .
+-----:24
+pseudozyma aphidis fungaemia is a rare fungal infection caused by p. aphidis . 
+ we experienced a case of invasive fungal pneumonia with p. aphidis fungaemia after reinduction chemotherapy for acute myeloid leukaemia . 
+ the patient was successfully treated with a combination of ceftazidime and teicoplanin . 
+ this case report describes the clinical features and review the global literature .
+-----:25
+
+ background . 
+ foot ulcerations ( fu ) are a well - known complication of diabetic nephropathy . 
+ we aimed to evaluate the association of fu with outcomes among hemodialysis ( hd ) patients . 
+ methods . 
+ we conducted a retrospective analysis of all hd patients enrolled at the hd unit at hamad general hospital , qatar , over a five - year period ( 20072012 ) duration . 
+ hd patients were categorized into two groups according to whether they had foot ulcer ( fu ) or not ( no - fu ) based on physical examination . 
+ the study end - points ( major amputation , vascular complications , and mortality ) were also subanalyzed according to the presence or absence of diabetes mellitus ( dm ) and peripheral arterial disease ( pad ) . 
+ results . 
+ a total of 499 hd patients were included in the study . 
+ fu was present in 20.4% of patients . 
+ patients with fu had a higher incidence of vascular complications ( p = 0.001 ) and mortality ( p = 0.001 ) compared to those without fu . 
+ logistic regression analysis showed that fu was an independent predictor
+-----:26
+a1180v , a single nucleotide mutation in exon 20 of the scn5a gene , was first reported to be associated with familial dilated cardiomyopathy ( dcm ) in a three - generation chinese family . 
+ however , unpublished data from other ethnic groups suggest that a1180v is virtually absent in other ethnic groups . in this study , we followed up the three - generation chinese family with a1180v and expanded the control size to screen for a1180v among 460 unrelated healthy han chinese . 
+ a1180v was detected in two carriers in the pedigree and in none of the other six unaffected members of the pedigree . 
+ the frequency of a1180v was 0.0% in the pedigree and 0.0% in the control group ( p = .03 ) . 
+ the a1180v carriers showed a higher risk of developing atrioventricular block ( avb ) and longer qt interval than the noncarriers ( p = .03 and p = .03 , resp . ) . 
+ the a1180v carriers showed a higher risk of developing cardiomyopathy with left ventricular hypertrophy ( lvh ) ( p = .03 
+-----:27
+
+ purpose . to report the spectral domain optical coherence tomography ( oct ) findings in two cases of macula - off retinal detachment 
+ . methods . 
+ retrospective case review . 
+ results . 
+ spectral domain oct in two patients presenting with macula - off retinal detachments were reviewed . 
+ both patients were treated with surgical intervention and the final visual acuity was 6/6 . 
+ spectral domain oct was used to assess the retinal detachment and provide a diagnosis . 
+ the first patient was treated with an emergency surgical session and had a normal oct scan performed within 24 hours of surgery . 
+ the second patient was treated with a pars plana vitrectomy and cryotherapy . 
+ the final visual acuity was 6/6 . 
+ conclusions . 
+ spectral domain oct is a useful tool in the assessment of retinal detachment . 
+ it provides a diagnosis in cases where biomicroscopy is inconclusive . 
+ it also allows for rapid decision making for surgical intervention .
+-----:28
+the 
+ eye lens is a notable exception to the classical age - related 
+ decline in protein function . 
+ the lens provides a unique opportunity to 
+ observe the effects of aging in relation to damage accumulation in long - lived 
+ proteins . 
+ we report here a systematic study of isomerization 
+ in the lens using a combination of electron microscopy , x - ray crystallography , 
+ and mass spectrometry . 
+ we show that the lens of asp92 undergoes 
+ isomerization from l - asp to d - isoaspartic acid , with the conversion 
+ leading to a decrease in the number of -crystallins and an increase 
+ in the number of -crystallins / -crystallins . 
+ electron microscopy 
+ and x - ray crystallography reveal that the lens of asp92 is a mixture 
+ of -crystallins and -crystallins . 
+ mass spectrometry measurements show 
+ that the number of -crystallins / -crystallins increases with age , 
+ whereas the number of -crystallins / -crystallins decreases . 
+ the 
+ number of -crystallins
+-----:29
+
+ background . 
+ epicardial fat is related to visceral fat , which shares microcirculation with myocardial tissue and coronary vessels . 
+ we investigated the association between epicardial fat thickness ( eft ) and circadian blood pressure ( bp ) changes in patients with recently diagnosed essential hypertension ( eh ) . 
+ methods . 
+ this cross - sectional observational cohort study included 441 consecutive patients who underwent 24 h ambulatory bp monitoring ( abpm ) and echocardiography . 
+ the patients were divided into three groups according to bmi : no obesity ( nw , n = 341 ) , obese ( ob , n = 341 ) , and obese with hypertension ( uf , n = 341 ) . 
+ we analyzed the relationships between eft and diurnal bp variability , daytime and nighttime systolic bp , and diastolic bp . 
+ results . 
+ the mean eft was significantly higher in ob than in uf ( 3.80 0.70 versus 3.10 0.70 m2 , p  ⁇  0.001 ) . 
+ ob had a significantly greater daytime bp variability ( p  ⁇ 
+-----:30
+purposethe purpose of this study was to verify whether the marginal and internal gap of a prosthesis made according to the additive manufacturing ( am ) method is within the clinically allowable range.materials and methodsan acrylic model with abutment teeth was used . 
+ the maxillary right canine , first pre - molar , first molar were provided with a 360 1.0 mm chamfer preparation . 
+ the incisal and occlusal reductions were 1.5 - 2.0 mm . 
+ the acrylic model was randomly divided into 4 groups ( n=15 ) . 
+ the marginal and internal gaps of the prosthesis were measured using a digital microscope . 
+ the data were analyzed using the one - way anova and tukey 's hsd post hoc tests ( =.05).resultsthe mean marginal and internal gaps of the prosthesis made by the subtractive manufacturing system with wax blank milling ( wbm ) and am with multi jet modeling ( mjm ) were , respectively , 2.70 0.11 mm and 3.70 0.11 mm . 
+ the mean marginal and internal gaps of the prosthesis made by the conventional lost wax technique ( clwt ) and am with mjm were , respectively , 2.70
+-----:31
+trichonodosis is a common occurrence in patients with kinky hair . 
+ it may be spontaneous or secondary to mechanical factors . 
+ trichonodosis of scalp and body hair is a rare entity . 
+ we report a case of spontaneous trichonodosis of scalp and body hair in a 19-year - old female patient .
+-----:32
+
+ background . 
+ mitoxantrone has been approved for treatment of patients with worsening relapsing - remitting or secondary progressive multiple sclerosis ( ms ) in germany . 
+ however , systematic data on the course and incidence of cardiac toxicity following low - dose mitoxantrone are lacking . methods . 
+ we report about serial cardiac evaluation in 30 consecutive patients before , during , and after mitoxantrone treatment in consecutive patients with ms . results . 
+ mitoxantrone was infused 222 times with a mean cumulative dosage of 83 37 mg / m2 ( minimal dose 24 mg / m2 , maximal 156 mg / m2 ) . 
+ treatment frequency ranged from 2 to 13 infusions per patient and extended over a mean period of 23 13 months ( minimal 3 , maximal 53 months ) . during therapy with mitoxantrone 3 patients ( 10% ) experienced an acute episode of relapsing symptoms . at the terminal mitoxantrone infusion 5/30 ( 17% ) reported about amelioration of ms symptoms , 19/30 ( 63% ) about no change , and 6/30 ( 20% ) about worsening symptoms . 
+ out of 30 treated
+-----:33
+protein phosphatases are a class of posttranslational modification proteins that have been identified as promising therapeutic targets . 
+ the ubiquitously expressed protein phosphatase 2a ( pp2a ) is a serine / threonine phosphatase that recognizes a large number of substrates and mediates site - specific dephosphorylation . 
+ the holoenzyme of pp2a is composed of a catalytic subunit ( c ) and one member of four families of regulatory subunits ( b ) . 
+ the substrate specificity of pp2a is thought to be determined by the incorporation of a regulatory subunit into the ac dimer . 
+ however , the exact substrate specificity of pp2a remains unclear . 
+ recent studies have revealed that pp2a substrate specificity is conferred by a conserved docking motif that is found on all four b subunits and one regulatory subunit ( b55 ) . 
+ this docking motif is also found on all four c subunits and one regulatory subunit ( pr72 ) . 
+ the consensus sequence of the docking motif is not yet known , but it appears to be a combination of two discrete interactions , one with the c subunit and one with the b subunit . 
+ this
+-----:34
+background : nonalcoholic fatty liver disease ( nafld ) is one of the most common chronic liver diseases in the worldwide . 
+ vitamin d is a fat - soluble vitamin that affects genes controlling inflammation and oxidative stress . 
+ the aim of this study was to investigate the effect of vitamin d supplementation on inflammation in patients with nafld.materials and methods : a randomized double - blind placebo - controlled clinical trial was conducted on 60 patients with nafld . 
+ participants were divided into two groups using permuted block randomization : ( a ) 30 patients in vitamin d group ( capsules containing 50,000 iu vitamin d ) , ( b ) 30 patient in the placebo group . 
+ intervention period followed for 10 weeks and patients received vitamin supplements or placebo capsules every week . 
+ serum 25-hydroxy vitamin d was measured at the beginning and end of the study . 
+ ast and alt serum levels were measured through enzymatic photometric method ( ifcc ) with a sensitivity of 2 u / l and a coefficient of variation of 14% ( alt , ast , and alp ) . 
+ inflammatory markers were measured by enzyme - linked immunosorbent assay ( e
+-----:35
+introduction : photoselective vaporization of prostate ( pvp ) is considered to be easier to learn and perform than transurethral resection of the prostate ( turp ) and competence occurs following 5 - 20 procedures . 
+ we performed a prospective , randomized study to examine the efficacy and safety profile of ktp - pvp when compared to standard turp.materials and methods : consecutive patients attending the urology opd with lower urinary tract symptoms secondary to benign prostatic enlargement who satisfied the eligibility criteria and who were planned for surgery according to the international bph guidelines of the american urology association were included in this prospective , randomized study . 
+ patients were randomized to either standard turp or ktp - pvp . 
+ primary endpoints were prostate - specific antigen ( psa ) levels , prostate volume , international prostate symptom score ( ipss ) , quality of life ( qol ) score , international index of erectile function ( iief5 ) score , maximum flow rate ( qmax ) , post void residual urine ( pvru ) , uroflowmetry ( ufr ) , and adverse events.results:a total of 100 patients were included in the study 
+-----:36
+extramedullary hematopoiesis in the lungs is a rare condition . 
+ we report the case of a 66-year - old man in whom pulmonary hypertension and severe tricuspid regurgitation was diagnosed on technetium-99 m ( tc-99 m ) sulfur colloid bone marrow scan and single - photon emission computed tomography ( spect)/ct . 
+ the planar gamma imaging showed a hepatosplenomegaly with increased tracer accumulation in the spleen , compatible with an increased hematopoietic activity resulting from an underlying myelofibrosis . 
+ a moderate degree of tracer activity in a diffuse pattern was noted in both thoracic regions . 
+ the spect / ct imaging confirmed the location of an increased thoracic tracer activity . 
+ pulmonary extramedullary hematopoiesis should be considered in the differential diagnosis of pulmonary hypertension in patients with myelofibrosis .
+-----:37
+etoposide - induced double - strand breaks ( dsbs ) during mitosis are very toxic to cells because of the induction of severe genomic instability . 
+ two groups recently reported that the mechanism of etoposide - induced dsb suppression is dependent on the mitosis - specific phosphorylation of 53bp1 by cdk1 and on the phosphorylation of t198 by plk1 . 
+ these findings suggest that the recruitment of rnf8 , rnf168 , 53bp1 , and brca1 to dsb sites is regulated by two distinct mechanisms . 
+ these findings also suggest that the mechanism of etoposide - induced dsb suppression is not dependent on the phosphorylation of t198 by cdk1 . 
+ in addition , these findings provide new insights into the role of pikks during mitosis and the mechanism of etoposide - induced dsb induction .
+-----:38
+oral malignant melanoma is a rare tumor of melanocytic origin . 
+ it is more common in young adults and has a higher incidence in asians . 
+ the prognosis is poor due to its late diagnosis . 
+ the purpose of this article is to present a case of oral malignant melanoma , as well as to emphasize the necessity for early recognition and treatment of this lesion . 
+ a 48-year - old male patient reported to the department of oral medicine with chief complaint of pain and swelling in the upper right gums . 
+ the clinical examination revealed a large mass of 8 3 cm in dimension on buccal aspect of right maxillary alveolus involving marginal , attached , and interdental gingiva . 
+ the histopathologic examination of the specimen confirmed the diagnosis of invasive melanoma . 
+ the patient has been followed - up with no evidence of recurrence or metastasis either clinically or radiographically , 11 months after the tumor 's resection . 
+ the purpose of this article is to present a case of oral malignant melanoma , as well as to emphasize the necessity for early recognition and treatment of this lesion .
+-----:39
+the cat retina is susceptible to a variety of degenerative diseases , including age - related macular degeneration ( amd ) . 
+ although retinal transplantation has shown promise in the treatment of amd , effective treatments are lacking . 
+ we previously isolated genetically modified feline neural progenitor cells ( cnpcs ) that were capable of integration into the retina of dystrophic feline recipients . 
+ here we used a bicistronic feline lentiviral vector to generate feline npcs that exhibit sustained overexpression of glial cell line - derived neurotrophic factor ( gdnf ) before and after differentiation . 
+ expression of gdnf was confirmed by immunoblotting and immunocytochemistry . 
+ gdnf - expressing cnpcs migrated extensively in the vitreous and were found to be present in the retina of dystrophic feline recipients . 
+ gdnf - expressing cnpcs demonstrated a strong ability to secrete growth factors , including gdnf , into the vitreous . 
+ in addition , cnpcs were found to be able to migrate into the retina following retinal detachment . 
+ these results suggest that cnpcs derived from the feline eye may have the potential to be used as a sub
+-----:40
+biliary hamartoma is a benign congenital malformation of the biliary duct which was described for the first time in 1918 by von mayenburg , therefore it is also called von mayenburg complex ( vmcs ) . 
+ although jaundice and portal hypertension may arise as a result of mass effect , patients are usually asymptomatic . 
+ biliary hamartomas may be single or multiple , with size ranging between 1 and 15 mm . 
+ biliary hamartomas usually presents as multiple small nodules and despite the fact that they are rare , they may be confused with liver metastatic disease , microabscesses , diffuse primary hepatocellular carcinoma , biliary cysts or caroli s disease . 
+ associating different imaging modalities with the follow - up are very useful in the diagnosis of biliary hamartoma .
+-----:41
+purposeto determine the occurrence of human rights violations among men who have sex with men ( msm ) in lagos , nigeria , before the same sex marriage prohibition bill was signed into law.materials and methodsa cross - sectional descriptive study was conducted using a structured questionnaire . 
+ data were analyzed using spss version 20 . 
+ descriptive statistics were used to describe the study population . 
+ chi - square test was used to compare proportions of the variables . 
+ p ⁇ 0.05 was considered significant.resultsa total of 296 msm participated in the study . 
+ the mean age of the participants was 35.7 years . 
+ the majority of the participants were in the 3039 years age group . 
+ the majority of the participants were in committed relationships ( 61.2% ) . 
+ the majority of the participants were aware of the existence of same sex marriage ( 71.2% ) and were aware of the existence of human rights violations against them ( 57.1% ) . 
+ the majority of the participants had heard of human rights violations , ie , death threats ( 71.2% ) , abuse ( 61.2% ) , and rejection ( 57.1%
+-----:42
+backgroundthe korean government introduced a new social insurance scheme for long - term care ( ltc ) in july 2008 . 
+ the ltc insurance program provides social services for elderly people with a few functional limitations . 
+ the purpose of this insurance system was to meet the markedly increased demand for elderly healthcare as a result of a rapidly aging population , elevated expectations for healthcare , and a change in the pattern of medical conditions in the elderly from acute illness to chronic disability.methodswe evaluated the frequency of inappropriate medication use in elderly patients admitted to nursing homes in korea by applying the newly revised 2012 american geriatrics society ( ags ) beers criteria . 
+ a retrospective cross - sectional survey study was performed in patients aged 65 years or older , which produced a sample of 824 people admitted to 20 nursing facilities in northwest korea from january 2012 to february 2012.resultsthe mean age of the patients was 78.8 years , and 63.5 % were female . 
+ the mean number of medications was 2.66 per patient . 
+ the prevalence of potentially inappropriate medications ( pims ) was 20.8 % . 
+ the pims most frequently prescribed were calcium channel blockers ( 30.8 % ) , diuretics
+-----:43
+extrahepatic portal venous obstruction ( ehpvo ) is the most common cause of upper gastrointestinal bleeding in children and adults in developing countries . 
+ ehpvo is usually treated with endoscopic therapy which has many advantages over surgery , but it has its own set of disadvantages . 
+ endoscopic therapy is less invasive than surgery and requires fewer sessions and is less expensive . 
+ it is also better than blood transfusion which is the mainstay of treatment in most centres . 
+ the long - term outcome of endoscopic therapy is good , but it requires frequent follow - up and recurrence rates are high . 
+ shunt surgery has been performed for the treatment of ehpvo for more than 50 years and has been shown to be a safe and effective method of treatment . 
+ the results of shunt surgery in ehpvo are comparable to those of endoscopic therapy . 
+ the role of endoscopic therapy in the treatment of ehpvo is evolving and is likely to become more popular as it has better outcomes and is less expensive .
+-----:44
+percutaneous mitral valvuloplasty is a common surgical procedure , with a low rate of complications . 
+ we report a case of a 56-year - old man who underwent a percutaneous mitral valvuloplasty , which was complicated by a massive pericardial effusion , which was eventually repaired by pericardiocentesis . 
+ the patient was hemodynamically stable after the procedure , and was discharged to the intensive care unit in deep coma . 
+ he regained almost normal neurological state 3 days later , and was discharged from the intensive care unit .
+-----:45
+
+ background . 
+ the prevalence of the metabolic syndrome ( mes ) is higher in arab women compared to men . 
+ however , it is unclear as to what factors confer this disparity . 
+ this study investigated gender differences in body composition , systemic levels of adipokines and inflammatory markers , and aerobic fitness in a cohort of healthy qatari adults matched for age and body mass index ( bmi ) . 
+ methods . 
+ healthy qatari men ( n = 29 ) and women ( n = 29 ) were matched for age and bmi . 
+ subjects with diabetes mellitus , those who were pregnant or postmenopausal , or receiving medical treatment for any chronic disease were excluded . 
+ body composition was determined by dual - energy x - ray absorptiometry . 
+ subjects also underwent a series of tests for aerobic fitness and indices of muscular strength . 
+ results . 
+ women had a significantly higher percentage of body fat ( p  ⁇  0.001 ) and higher bmi , waist circumference , and systolic blood pressure than men . 
+ women had significantly lower aerobic fitness ( p  ⁇  0.001 )
+-----:46
+background : medical researchers observe deficiencies in health care occurring due to many prescribing errors . 
+ although prescription writing is a part of the medical students ' curriculum , their prescribing skills are still poor either as a part of their examinations or as they go out as qualified health professionals . 
+ patient - based teaching is one of the educational interventions to teach clinical skills using real patients.aim:to determine the role of educational intervention ( patient - based teaching ) to improve the prescribing skill of ii year medical students.materials and methods : this prospective comparative study was conducted in a tertiary care medical college . 
+ two groups of 25 students were selected randomly from ii mbbs to participate in this study . 
+ the control group included all the 25 students who were posted to surgery postings and the test group included whole of the 25 students who were posted in general medicine department . 
+ both groups underwent self - study for 2 days . 
+ then , assessment of their prescribing skill was done by analyzing scores obtained . 
+ teaching for both the groups was done by the first author , evaluation by the second author and providing dummy numbers to prescriptions of the students of both the groups . 
+ scoring for the prescriptions written by all the
+-----:47
+an outbreak of tuberculosis occurred in a drug - abusing immigrant population . 
+ epidemiologic investigation of the outbreak showed that patients had multiple infectious periods , which may have led to cross - infection . 
+ patients were foreign - born and had histories of incarceration . 
+ contact activities included frequent marijuana use , " hotboxing " , and sleep in cars .
+-----:48
+background and objectives : the emergence of heterogenous vancomycin intermediate staphylococcus aureus ( hvisa ) has been reported in many countries including those in south east asia . 
+ we investigated the prevalence of hvisa among methicillin resistant staphylococcus aureus ( mrsa ) strains isolated at hospital kuala lumpur ( hkl ) in a 3-month period and determined factors associated with its infections.methods:from 25 february to 25 may 2009 , 320 index mrsa isolates ( first mrsa isolated from the corresponding patients ) were collected and established as strains for vancomycin resistance testing . 
+ strains were first screened for the phenotype using glycopeptide resistance detection ( grd ) etest antibiotic strips . 
+ after grd screening , a total of 8 strains were defined as presumptive hvisa , no visa strain was detected . 
+ following that , area under the curve analyses of the strains ' population profiles confirmed that 7 out of the 8 tested strains were hvisa , giving a prevalence rate of 2.19% . 
+ demographic data of all corresponding patients of each index mrsa isolate were retrieved from medical records . 
+ continuous variables were then assessed by independent samples t -
+-----:49
+vildagliptin is a dipeptidyl peptidase ( dpp)-4 inhibitor that is effective and well tolerated for the treatment of type 2 diabetes mellitus ( t2 dm ) . 
+ however , vildagliptin can cause side effects , including sarcoid - like lung granulomas , which are not common in patients treated with vildagliptin . 
+ we report the first case of sarcoid - like lung granulomas in a hemodialysis patient treated with vildagliptin . 
+ a 70-year - old female began hemodialysis for end - stage renal disease due to diabetic nephropathy in august 2010 . 
+ her treatment regimen was changed from insulin injections to the oral administration of vildagliptin ( 50 mg / day ) in december 2011 . 
+ the patient 's level of hba1c ranged between 6.0 and 6.3% , and no episodes of hypoglycemia were observed . in april 2012 , multiple nodular lesions were incidentally detected on chest computed tomography ( ct ) screening for lung cancer , without subjective symptoms . 
+ the patient had no pets , was not a smoker , had no experience of
+-----:50
+during october 2009october 2010 , a total of 448 respiratory specimens were obtained from patients in osaka , japan , and were positive for human enterovirus , human rhinovirus , and enterovirus 68 . 
+ viral protein 4 and vp1 genes were sequenced from 178 and 15 specimens , respectively . 
+ phylogenetic analysis showed that the osaka strains were clustered in 1 group .
+-----:51
+dysphagia aortica is a rare cause of dysphagia . 
+ it is classically seen in elderly women with hypertension and kyphosis . 
+ an 86-year - old woman was admitted to the hospital because of worsening nausea and vomiting . 
+ she had been diagnosed with primary hypertension , ascending aortic aneurysm , congestive heart failure , moderate aortic regurgitation , and moderate mitral regurgitation 6 years previously . 
+ her chest radiograph revealed blunting signs at both costophrenic angles , cardiomegaly with a cardio - thoracic ratio of 0.8 , and an enlarged , tortuous aorta . 
+ computed tomography of the chest demonstrated an enlarged , tortuous aorta . 
+ the upper gastrointestinal barium study revealed marked extrinsic compression of the distal esophagus just above the esophagogastric junction . 
+ we report herein a case of dysphagia aortica associated with an aortic aneurysm .
+-----:52
+background : haemoperitoneum is a common complication of blunt abdominal trauma ( bta ) . 
+ laparoscopy is a useful technique for the management of haemoperitoneum in bta . 
+ the aim of this study was to evaluate the therapeutic efficacy of laparoscopy in managing the organ damage in bta.materials and methods : twenty - five adult patients of either sex , with relatively stable haemodynamics , who sustained haemoperitoneum , confirmed in ultrasonography or computed tomogram , with relatively stable haemodynamics , were enrolled in this study . 
+ laparoscopy was performed in all patients according to the organ injury . 
+ the outcome measures were : time taken for laparoscopy , operative and post - operative recovery , duration of hospital stay and complications.results:twenty-five patients ( mean age 36.2 years ) were included in the study . 
+ the most common injury was a fall from height ( 21 ) , followed by a vehicular accident ( 17 ) . 
+ the most common post - operative complication was wound infection ( 7 ) . 
+ the median time taken for laparoscopy was 10 min . 
+ the median hospital
+-----:53
+background : transdermal drug delivery is a noninvasive route of drug administration into the body through the skin . 
+ the highly lipophilic nature of the skin restricts the permeation of hydrophilic , high molecular weight and charged compounds through the stratum corneum into the systemic circulation . 
+methotrexate ( mtx ) is an antineoplastic agent used for the treatment of cancer , psoriasis and rheumatoid arthritis . 
+ transdermal iontophoresis is defined as application of an electrical potential that maintains a constant electric current across the skin and enhances the delivery of ionized as well as unionized molecules . 
+ the aim of the present study was to analyze the effects of current density on mtx permeation as well as to assess the skin injury caused by the above - mentioned physical enhancer by histological examination.materials and methods : white albino mice ( n=5 in each group ) were procured from aiims and sacrificed . 
+ the fresh skin was used , for in vitro , attenuated total reflectance - fourier transform infrared ( atr - ftir ) and histopathological studies . 
+ the hydrogel patches were synthesized using acrylamide monomer by solution polymerization method .
+-----:54
+
+ background . 
+ rheumatoid arthritis ( ra ) is a chronic , systemic , autoimmune disease . 
+ patients typically suffer severe joint pain , reduced muscle strength , and impaired physical function . 
+ in addition ra is associated with increased morbidity and mortality from cardiovascular disease . 
+ the purpose of this paper is to highlight the importance of exercise in patients with ra and to demonstrate the multitude of beneficial effects that a properly designed exercise intervention has in this population . methods . 
+ an expert review has been derived from a combination of systematic reviews and other research papers focusing on randomised controlled trials , published guidelines , the recent literature , and also making use of our own specialised experience . 
+ results . 
+ it is demonstrated that exercise interventions can improve joint function , improve musculoskeletal health , and reduce the risk of cardiovascular disease in patients with ra . 
+ discussion . 
+ the benefits of exercise in ra are highlighted , focusing on the areas of cardiovascular disease , musculoskeletal and joint health , and overall function . 
+ patients with ra are generally positive about the benefits of exercise and would recommend exercise to their doctors . 
+ conclusion . 
+ the benefits of exercise
+-----:55
+dietary sugar intake , in the form of sucrose or high - fructose corn syrup ( hfcs ) , has dramatically increased and correlates with a rise in obesity , metabolic syndrome , and diabetes . 
+ although the mechanisms of sugar addiction are still a subject of controversy , many studies have demonstrated that sugar intake might be associated with alterations in gut hormone levels , gut permeability , and blood brain barrier . 
+ in addition , several studies have suggested that the brain might be the main target of dietary sugars , since the hedonic value of food is closely linked to the sensory perception of food and the reward value of food might override the physiological mechanisms related to energy homeostasis . 
+ the hedonic value of highly palatable foods and their wide availability can override the physiological mechanisms related to energy homeostasis . 
+ both drugs and food have powerful reinforcing effects partly mediated by dopamine increases in the limbic system that , under certain circumstances or in vulnerable individuals , could overwhelm the brain s homeostatic control mechanisms , but the plausibility of sugar addiction and its role in obesity and eating disorders in humans is still a subject of controversy . 
+ this review focuses on the evidence on the effects of dietary sugars on
+-----:56
+objectiveto examine whether a passive stretch stimulus by means of a functional appliance induces changes in the fiber composition of masticatory muscles and whether these changes are similar to the changes in stretched leg muscle fibers by using reverse transcription - polymerase chain reaction ( rt - pcr ) , western blot , and immunohistochemical assays.methodseight male growing new zealand white rabbits were divided into control and experimental groups , consisting of 3 and 5 rabbits , respectively . 
+ the experimental group received a functional appliance to stretch the extensor digitorum longus ( edl ) of the left hind limb , while the control group did not . 
+ the rabbits were sacrificed after 1 week of stretching . 
+ the masseter ( superficial and deep parts ) , lateral pterygoid , and edl of both hind limbs were dissected immediately after the animals were sacrificed . 
+ the masseter and lateral pterygoid fibers were stained with mouse monoclonal antibodies against slow , fast , embryonic , and neonatal myhcs . 
+ rt - pcr and western blot were performed to determine the myhc expression levels in the muscle fibers . 
+ immunohistochemical staining was accomplished to determine the
+-----:57
+background : c - met is a recently discovered tumor suppressor gene . 
+ however , the expression of c - met and hgf in meningiomas is not well understood . 
+ we investigated the expression of c - met and hgf in meningiomas and evaluated their association with clinicopathological features and prognosis.methods:we analyzed the expression of c - met and hgf in 100 cases of complete surgical resection of meningiomas using tissue microarray . 
+ the association between the protein expressions of each antibody and clinicopathological features and prognosis were assessed.results:the c - met and hgf protein expressions were significantly correlated with the histological subtype and recurrence - free survival ( rfs ) . 
+ c - met expression was significantly correlated with the histological subtype and rfs , but not with the histological grade . 
+ c - met expression was significantly correlated with hgf expression , but not with the histological grade . 
+ c - met expression was significantly correlated with hgf expression , but not with the histological grade . 
+ c - met expression was significantly correlated with rfs in transitional types , but not in meningothelial
+-----:58
+human papillomavirus ( hpv ) is the most common cause of papillomavirus - associated skin disease . 
+ hpv is also a major cause of genital lesions in humans . 
+ we report the clinical and molecular characteristics of hpv - associated hypopigmented skin lesions in 4 human immunodeficiency virus ( hiv ) patients . 
+ all 4 patients presented with hypopigmented macules and papules distributed on sun - exposed areas . 
+ all 4 patients were maternal orphans . 
+ diagnostic punch skin biopsies were taken from each patient with informed consent . 
+ hpv was detected in all 4 patients . 
+ hpv 2 + + 
+ hpv 6 + + + hpv 1 + + + hpv 2+++hpv 2++4neck51 , 26 , 11 , 16 , 31 , 51 , 52 , 66 hpv 1+++ 
+ hpv 2++++hpv 2++4neck51 , 26 , 11 , 16 , 18 , 31 , 34 hpv 1 + + + hpv 2 + + + hpv 2 + + + hpv 1 + + + hpv 2 + +
+-----:59
+background : the effect of storage temperature on the stability of serum analytes is poorly understood . 
+ the aim of this study was to examine the effect of storage temperature on the stability of routine biochemical analytes in immediately cell - separated serum.materials and methods : serum samples were collected from ten randomly selected outpatients and stored in a deep freezer ( 20c ) for 0 , 7 , 15 , or 30 days . 
+ the serum samples were analyzed for the following analytes : metabolites , proteins , and lipids . 
+ the samples were analyzed using an auto analyzer after each period . 
+ the statistical significance of the changes in the values of the analytes over time was assessed using the kruskal 
+ wallis test . 
+ the level of statistical significance was set at p  ⁇  0.05.results:the results showed that the levels of most analytes deteriorated significantly over time . 
+ the levels of amylase , aspartate aminotransferase , and alkaline phosphatase decreased significantly over time in all storage periods ( p  ⁇  0.05 ) . 
+ the levels of total cholesterol , triglycerides , and total protein decreased over time in
+-----:60
+background milk intake is inversely related to body height . 
+ the milk protein ( lp ) gene is associated with milk intake in humans . 
+ the lnp gene is associated with milk intake in rodents . 
+ the aim of the present study was to investigate the relationship between milk intake and the lnp gene in a sample of swedish preadolescents and adolescents.methodsthe random sample comprises 267 preadolescents ( 121 girls , 146 boys ) and 330 caucasian adolescents ( 164 girls , 166 boys ) of a population belonging to the swedish part of the european youth heart study . 
+ anthropometric measurements , milk intake , and the lnp and lp genotypes were determined.resultsthe milk intake of adolescents was significantly lower than that of preadolescents ( p  ⁇  0.001 ) . 
+ no significant differences in milk intake were found between adolescents with and without the lnp genotype . 
+ the regression analysis showed that milk intake was inversely related to body height after adjustments for sex , birth weight , father 's and mother 's height , body mass index , tanner stage , and socio - economic status ( ses).conclusion
+-----:61
+background conserved domains in proteins are important for many cellular processes . 
+ many groups have attempted to find , document and annotate these conserved domains . 
+ this study investigates how five eukaryotic genomes maintain conserved domains.methods conserved domains were identified in 519 proteins in homo sapiens , drosophila melanogaster , arabidopsis thaliana , caenorhabditis elegans and saccharomyces cerevisiae . 
+ data were collected from the smart cd database , a database of conserved domains in proteins , and from a repository of databases ( pad ) . 
+ results were confirmed using a database from this group ( smart).results for many conserved domains , the ratio of the sum of genes in genome 1 containing the conserved domain to the sum genes in genome 2 was proportional to the ratio of the sum of genes in genome 1 containing the conserved domain to the total number of predicted genes in genome 2 . 
+ this suggests that these conserved domains are maintained in this ratio as a result of functional constraints on interacting domains.conclusions this study provides a useful dataset for analyzing how genomes maintain any given domain in relation to other conserved domains , as well as for analyzing the relationship of conserved domain occurrence to
+-----:62
+we conducted a retrospective study of mycobacterium tuberculosis isolates from patients in irkutsk and yakutia , russia , during 20082010 . 
+ isoniazid monoresistance was found in isolates from 16 ( 12% ) of 235 patients from yakutia and 18 ( 18% ) of 235 patients from irkutsk . 
+ multidrug - resistant tuberculosis was found in 61 ( 28% ) of 235 patients from yakutia and 25 ( 24% ) of 235 from irkutsk .
+-----:63
+purposeto evaluate the efficacy and safety of once daily use of tadalafil 5 mg in the treatment of erectile dysfunction ( ed ) patients after robot - assisted laparoscopic radical prostatectomy ( ns ralp).materials and methodswe retrospectively evaluated 116 patients who had undergone ns ralp by an experienced surgeon at our institution . 
+ the 92 patients who had normal preoperative erectile function ( ef ) and whose serum prostate - specific antigen ( psa ) level was  ⁇  20 ng before surgery were included in the study . 
+ the patients were divided into two groups : 47 patients were prescribed tadalafil 5 mg per day , and 116 patients were prescribed tadalafil 5 mg once daily . 
+ ef was assessed through the korean version of the five - item international index of erectile function ( iief-5 ) questionnaire . 
+ the efficacy of tadalafil was evaluated by the percentage change in the iief-5 score from baseline to month 6 , and safety was evaluated by the incidence of adverse events.resultsthe mean age of the patients was 69.4 years , and the mean serum psa was 14.7 ng before surgery . 
+ the mean follow - up period was 20.8 months . 
+ the mean i
+-----:64
+we report on multi - color quantum dot ( qd ) lasers fabricated using implantation induced intermixing . 
+ the as - grown lasers have four qd devices , which are integrated into a single chip . 
+ the intermixing process results in band gap shift and energy level separation that are found to be dependent on the carrier confinement in the qds . 
+ we demonstrate differential band gap shift and the effect of interdiffusion on the carrier confinement and energy level spacing in qds due to implantation induced intermixing using photoluminescence . 
+ we also show multi - color qd lasers with multi - wavelength features fabricated using implantation induced intermixing .
+-----:65
+the three lincosamides , lincomycin , clindamycin , and pirlimycin , are clinically important antibiotics used against a wide range of bacteria . 
+ lincosamides block bacterial protein synthesis , which takes place on the ribosomes . 
+ however , extensive use of these antibiotics has led to increased resistance in many strains of bacteria , which have been developing various mechanisms to counter these drugs . 
+ one known mechanism is structural modification of the drug s target ( ribosome ) through the methylation of 23s rna ( e.g. , base no . 
+ 2058 ) and/or mutations ( e.g. , of bases g2057 , a2058 , c2452 , and c2611 ) . 
+ other mechanisms of resistance are active efflux of the drug across the cell surface , or its enzymatic deactivation . 
+ bacterial resistance together with side effects are the most important reasons for improving known lincosamides and designing modified compounds . 
+ the conformational properties of free clindamycin and lincomycin have been studied using x - ray techniques as well as 1
+-----:66
+an 80-year - old male presented with pain and redness in his left inguinal region . 
+ he had undergone penectomy and bilateral inguinal lymphadenectomy 1 year ago because of primary penile squamous cell carcinoma ( pscc ) . 
+ a large solid mass with bleeding and a smelly exudate was observed in his left inguinal region . 
+ a ct scan revealed a huge mass ( 5.9 5.8 cm ) in the left inguinal region along with his left femoral vessels . 
+ the patient also received 50-gy external - beam radiation therapy to the left inguinal region . 
+ the chemotherapy regimen consisted of 60 mg / m2 docetaxel administered over 3 h on day 1 ; 750 mg / m2 fluorouracil on days 15 ; and 70 mg / m2 cisplatin on day 4 . 
+ the patient also received 50-gy external - beam radiation therapy to the left inguinal region , initiated on the same day of chemotherapy . 
+ mohs chemosurgery was performed on the inguinal wound . 
+ the tumor had decreased by 70% in diameter at 1 month after the first course of chemotherapy . 
+
+-----:67
+human infection with necator americanus is rare in korea . 
+ an 82-yr - old woman was admitted to the national police hospital , seoul , complaining of shortness of breath and dizziness . 
+ she had been treated for anemia at a general hospital in seoul , and had received two transfusions . 
+ laboratory results revealed severe chronic iron deficiency anemia . 
+ gastroduodenoscopy revealed numerous 10-mm long slender reddish moving roundworms in the duodenum . 
+ the worms were round - cylindrical in shape and blood - tinged , and the 5 worms ( male : 3 , female : 2 ) measured 10.5 mm ( range ; 8 - 11 mm ) long and 0.5 mm ( range ; 0.4 - 0.5 mm ) wide . 
+ the buccal cavity at the anterior end was characterized by one anterior end with a central cavity and one buccal end with a lateral cavity . 
+ the anterior end was marked by one anterior end with a central cavity . 
+ the buccal cavity at the posterior end was characterized by one anterior end with a central cavity . 
+ the worms were identified as n. americanus by morphological and molecular
+-----:68
+human bocavirus was detected in 2 ( 9.1% ) of 527 patients with respiratory tract infection in basque country , spain . 
+ coinfection with other viruses was found in 25 ( 62.5% ) of 40 respiratory samples . 
+ human bocavirus is a new respiratory virus that has not yet been characterized .
+-----:69
+multicystic dysplastic kidney ( mcdk ) is a variant of renal dysplasia , one of the most frequently identified congenital urinary tract abnormalities . 
+cowden disease ( cd ) is an autosomal - dominant condition with variable expression that results most commonly ( 80% ) from a mutation in the pten gene on chromosome 10q . 
+ we report a 7-year - old male patient with antenatal diagnosis of unilateral mcdk and recently identified cd an unknown association . 
+ the obligatory multidisciplinary follow - up in the future is also discussed .
+-----:70
+backgroundkidney function has been associated with increased risk of peripheral artery disease ( pad ) . 
+ we prospectively examined the associations between kidney function markers ( 2microglobulin , cystatin c , and creatinine ) and incident pad.methods and resultswe conducted a prospective cohort study of 144 incident pad cases and 432 controls from the nurses health study and health professionals followup study . 
+ we used cox proportional hazards models to estimate hazard ratios ( hrs ) and 95% cis for the association between 2microglobulin , cystatin c , and creatinine with pad risk . 
+ we also examined the association between these markers and pad risk by stratified analysis by sex . 
+ after a median of 16 years of followup , 144 pad cases and 432 controls were identified . 
+ we observed a significant trend in pad risk associated with higher levels of both 2microglobulin ( hr : 1.18 , 95% ci : 1.021.32 ) and cystatin c ( hr : 1.18 , 95% ci : 1.021.32 ) . 
+ however , there was no evidence of an association between 2microglobulin and creatinine . 
+ the association between cystatin c and pad risk
+-----:71
+angiogenesis is a main mechanism of vascularization during embryonic development , growth , formation of the corpus luteum and endometrium , regeneration and wound healing . 
+ however , deregulated , abnormal angiogenesis is involved in many pathological processes . 
+ the relationships of angiogenesis with cancer have special relevance , since angiogenesis has been described as one of the hallmarks of cancer , playing an essential role in tumour growth , invasion , and metastasis . 
+ since tumour blood vessels show many differences from normal vessels and are not genetically unstable , they are potential targets for therapy of all types of cancer . due to the pivotal role played by endothelial cells in tumour angiogenesis , 
+ most previous efforts were devoted to the development of agents that could block their activation by an angiogenic signal ( mainly vegf ) , or to inhibit one or several specific functions of activated endothelial cells ( proliferation , adhesion to extracellular matrix , proteolytic activities , migration , invasion or differentiation ) . 
+ the great number of angiogenesis inhibitors described so far , and the interesting results obtained in experimental models , even showing complete tumour regressions in pre - clinical studies , even showed modest or even negative results emerged from
+-----:72
+background and objectives : the bronchoscope is the gold standard for performing bedside percutaneous dilatational tracheostomy ( pdt ) . 
+ however , the bronchoscope can cause complications , including aspiration , bleeding , and conversion to open tracheostomy . 
+ therefore , a safer alternative is required . 
+ we assessed the safety of a simplified pdt technique using the ciaglia blue rhino.subjects and methods : a total of 186 pdts were performed using the simplified technique after repositioning the endotracheal tube at a predetermined depth ( 17 cm for males and 15 cm for females at the incisor ) . 
+ the remaining pdt procedure was performed using the previous standard method with a # 7 tracheostomy tube.results:in 150 patients , no late complications or deaths occurred . 
+ the most common early complications were superficial palpation of the trachea ( 7.5% ) and loss of airway ( 4.5% ) . 
+ the most common late complications were bleeding ( 4.5% ) and conversion to open tracheostomy ( 4.5% ) . 
+ no significant differences in the demographic characteristics were found between the patients who
+-----:73
+backgroundranibizumab is a monoclonal anti - vascular endothelial growth factor antibody fragment , used in the treatment of neovascular age - related macular degeneration ( amd ) . 
+ the aim of this paper is to evaluate the functional and anatomical results of intravitreal ranibizumab injections and of exudative amd treatment course in our 12-month observational study.material/methodstwenty-five patients with subfoveal dominantly classic neovascular amd were included in the study . 
+ each patient received 3 intravitreal injections of 0.5 mg ranibizumab at monthly intervals ( saturation phase ) . 
+ after the end of the saturation phase , each month the patient s visual acuity ( va ) was tested with the etdrs chart and optical coherence tomography ( oct ) was performed . 
+ the following re - injection criteria were employed : ( 1 ) loss of 5 or more etdrs letters compared to best result during the initial phase of treatment ; ( 2 ) persistence or appearance of fluid under the retina or pigment epithelium , or intraretinal edema , on oct ; ( 3 ) increase in central retinal thickness ( crt ) of at least 100
+-----:74
+objective : the purpose of this study was to evaluate the effect of vital bleaching on the fluoride release of various types of glass ionomer restorations.materials and methods : disk shaped specimens ( 5 mm in diameter and 2 mm in thickness ) were prepared for each brand of glass ionomer . 
+ ketac fil , photac fil , and f2000 were used for each brand . 
+ specimens were divided into three groups . 
+ the first group was a control group , the second sub group was bleached with opalescence xtra ( ox ) , and the last one was bleached with opalescence quick ( oq ) . 
+ each group was further subdivided into three sub - groups , 10 samples for each group . 
+ after 24 h , each group was further subdivided into three sub - groups , 10 samples for each group . 
+ after 3 months , each group was further subdivided into three sub - groups , 10 samples for each group . 
+ the samples were incubated at 37c for 24 h. fluoride release was measured by ion selective electrode . 
+ data were analyzed using one - way anova and tukey 's post hoc test.
+-----:75
+bronchoscopy has become an important tool in the armamentarium of surgeons , intensivists , and pulmonologists . 
+ complications of bronchoscopy have traditionally been labeled minor , major , or fatal . 
+ this paper discusses mechanical and systemic complications of bronchoscopy , categorizing them as mechanical or systemic for improved clarity .
+-----:76
+background : the international diabetes federation ( idf ) has recently proposed gender- and race - specific cut - offs for waist circumference ( wc ) , body mass index ( bmi ) , waist hip ratio ( whr ) , and waist - to - height ratio ( whtr ) for defining the metabolic syndrome . 
+ the aim of our study was to perform a comparative validation of wc , bmi , whr , and whtr for defining the metabolic syndrome in indian population living in the urban and rural areas of rohtak district , haryana , india.materials and methods : a total of 452 subjects were included in the study . 
+ anthropometric indices were recorded for all subjects . 
+ the idf definition for the indian population was used to define the metabolic syndrome . 
+ appropriate cut - off values were used to determine which obesity measure was most closely predictive of the non - adipose components of the idf 's definition of metabolic syndrome.results:wc , bmi , whr , and whtr were found to be independent predictors of the idf 's definition of metabolic syndrome . 
+ the appropriate cut - off
+-----:77
+periodontitis ( pd ) is a chronic inflammatory disease characterized by interaction between bacterial products , cell populations , and mediators in disease - susceptible individuals . 
+ this is also influenced by genetic and environmental risk factors . 
+ the aim of this paper is to review the role of inflammatory mediators in the pathogenesis of pd and to discuss the possible association between pd and rheumatoid arthritis ( ra ) . 
+ the review also discusses the role of neutrophils in the pathogenesis of pd . 
+ finally , the possible role of hla class ii polymorphisms in the development of pd is discussed .
+-----:78
+prostate cancer ( pca ) is the second most common neoplasia in men worldwide . 
+ epidemiological studies have revealed that the incidence of pca is reduced in population with food rich in isoflavones . 
+ many studies have demonstrated that isoflavones exert hormone - like effects and nonhormone - like effects involving inhibiting tyrosine kinases , modulation of cell proliferation , regulation of cell cycle , apoptosis , angiogenesis , and tumor cell metastasis , and our recent study found isoflavones induced autophagy cell death by up - regulation of ulk1 level . 
+ many randomized controlled trials ( rcts ) about the role of isoflavones in men with pca have been developed ; however , these results are inconsistent . 
+ the main mechanisms involve binding competitively er- and er- , regulation of sex steroid hormonal synthesis and secretion , down - regulation of ar gene expression , and inhibition of prostate - specific antigen ( psa ) secretion . 
+ these possible mechanisms include antioxidant defense , dna repair , inhibition of angiogenesis and metastasis , potentiation of radio- and chemo - therapeutic agents , and antagonism of estrogen- and androgen
+-----:79
+medulloblastoma is the most common pediatric brain tumor , with limited treatment options . 
+ the present study was designed to identify differentially expressed micrornas ( mirnas ) in medulloblastoma and to analyze the molecular network of these mirnas . 
+ the data were downloaded from the ncbi gene expression omnibus database ( gse42657 , www.ncbi.nlm.nih.gov/geo ) . 
+ the data include 7 control samples ( consisting of 3 cerebellum and 4 frontal lobe controls ) and 9 medulloblastoma samples . 
+ using mirna microarray data from the geo database , 48 mirnas which are differentially expressed in medulloblastoma were identified , compared with the control group . 
+ ingenuity pathway analysis ( ipa ) was used to analyze the regulatory network of the differentially expressed mirnas . 
+ the core analysis demonstrated the molecular network interactions and signaling pathways associated with 28 differentially expressed mirnas of medulloblastoma , and their predicted molecular targets were rebuilt using ipa . 
+ the network 
+ p53 , argonaute 2 , sirtuin 1 , p53 , p53-binding protein 1 , p
+-----:80
+[ purpose ] the purpose of this study was to investigate the effects of radiofrequency , 
+ electroacupuncture , and low - level laser therapy on wrinkles and moisture content in 30 female 
+ subjects . 
+ [ subjects and methods ] the subjects were 30 adult women aged between 30 and 55 years 
+ who presented at m dermatology hospital in yongin , gyeonggi - do , south korea and who voluntarily 
+ agreed to participate . 
+ the subjects were assigned to rf , ea ( n=10 ) , or lllt ( n=10 ) groups . 
+ the 
+ rf group received radiofrequency treatment at 1 mhz ( rf energy , maximum 450w / cm2 ) , ea 
+ ( n=10 ) , or lllt ( n=10 ) . 
+ all treatments were performed twice per week for six weeks . 
+ 
+ the subjects were assessed for wrinkles and moisture content before and after treatment . 
+ 
+ [ results ] the rf , ea , and lllt groups showed significant improvements in the wrinkles 
+ and moisture content compared to the baseline values . 
+ the rf group showed
+-----:81
+backgroundthe aim of this study was to compare the analytical quality of cardiac isoforms of troponin t ( ctnt ) , cardiac troponin i ( ctni ) , mbmass isoenzyme of creatine kinase ( ck - mbmass ) , and myoglobin assays with the use of the standard and stat versions.material/methodswe performed a comparative analysis of exactness ( precision and accuracy ) of measurement methods of all assay kits , as well as analysis of the correlation of the obtained results using 2 tests : the standard and stat versions.resultswe found that the analytical quality of the tnths assay with the use of the standard and stat versions was excellent . 
+ the correlation between the results of the 2 tests was excellent . 
+ the coefficient of variation of the tnths assay with the use of the standard version was  ⁇  10% , and the coefficient of variation of the tnths assay with the use of the stat version was  ⁇  5% . 
+ the analysis of the correlation between the results of the 2 tests showed that the tnths assay with the use of the standard version had a lower tat than the stat version.
+-----:82
+we report here on a case of pancreatic panniculitis associated with acute pancreatitis that had a fatal outcome . 
+ a 50-yr - old man with a history of alcohol abuse was admitted to the department of internal medicine under the impression of acute pancreatitis . 
+ he was referred to the department of dermatology for multiple painful subcutaneous nodules on his legs , which had suddenly developed 3 weeks before . 
+ a skin biopsy performed on the 4th day of admission from the nodule on the left lower leg showed a diffuse subcutaneous fat necrosis and ghost - like cells with thick shadowy walls and no nuclei . 
+ there was a fine granular basophilic material deposited within and around the necrotic fat cells . 
+ the serum lipase level was 2,306 u / l ( reference range : 5 - 51 
+ u / l ) . 
+ the abdominal computed tomography scan and magnetic resonance imaging taken on the second day of admission showed a swollen pancreas with an dilated pancreatic duct , a loculated fluid collection in the left anterior perirenal space , multiple hepatic cysts , and massive ascites . 
+ the serum lactate dehydrogenase level was elevated at admission , and hypocalcemia , hypoalbuminemia 
+-----:83
+point - of - care testing ( poct ) is an increasingly popular means of delivering laboratory tests close to the patient . 
+ laboratory directors should know our processes and take steps to detect and prevent errors before those mistakes reach the clinician and affect patient care . 
+ risk management is a way to reduce errors with poct . 
+ risk is the chance of suffering harm or loss , and risk can also apply to the operator of the poct device , the laboratory administration and even the hospital and its reputation . 
+ errors that occur more frequently have greater risk , and errors that lead to greater harm also present greater risk . 
+ when errors are detected , the harm to patients is estimated and actions are taken to prevent recurrence in the future . 
+ so , risk management is simply a formal term for many of the activities that laboratories are already doing . 
+ quality control is a means of detecting and preventing errors . 
+ liquid controls are analyzed at two concentration levels each day of testing or more frequently as required by the stability of the test system . 
+ traditional quality control , however , does a poor job at detecting random errors which uniquely affect individual samples . 
+ random errors are
+-----:84
+backgroundthe aim of this study was to determine the prevalence of low back pain ( lbp ) among students of sport and physical education , and to compare the prevalence of lbp between males and females.methodsthis is a retrospective cross - sectional survey involving students at the higher institute of sport and physical education in the city of sfax . 
+ lbp was defined as pain or discomfort in the low - back region , from the lower rib curvature to the lower part of the seat region . 
+ the question used systematically by the doctor of the institute health service to identify and estimate lbp cases was about the present injury and if and when they had lbp in the past.resultsa total of 438 students participated in the study . 
+ the prevalence of lbp was 16.2% . 
+ the prevalence of lbp was significantly higher in females than in males ( 28.6% vs. 14.3% , p = 0.001 ) . 
+ the prevalence of lbp was significantly higher in girls than in boys ( 28.6% vs. 14.3% , p = 0.001 ) . 
+ the prevalence of lbp was significantly higher in girls than in boys ( 28.6% vs. 14.3% ,
+-----:85
+therapeutic hypothermia has been shown to provide neuroprotection against ischemic injury after cardiac arrest in in vitro and in vivo models . in the previous issue of critical care , meybohm and 
+ colleagues demonstrate that cardiac arrest triggers the release of cerebral inflammatory cytokines in pigs ' cerebral cortex . 
+ the combination of hypothermia with sevoflurane post - conditioning does not confer additional anti - inflammatory effects compared with hypothermia alone .
+-----:86
+the 
+ life span of nuclear waste is extended by > 60 years , 
+ and the waste contains long - lived radionuclides that must be contained 
+ and isolated from future populations . 
+ an engineered barrier 
+ concept proposed for deep geological disposal facilities ( gdf ) 
+ is intended to retard the release of radioactive species from the 
+ waste . 
+ however , the mobility and solubility of radionuclides 
+ within the gdf are not well understood . 
+ a key methodological step remains : 
+ the extraction of quantitative geochemical information from image data . 
+ 
+ we have used a combination of visible light transmission and fluorescence 
+ imaging , nuclear magnetic resonance ( nmr ) , and x - ray computed tomography 
+ ( xct ) to investigate the spatial and temporal dynamics of geochemistry 
+ within and surrounding a gdf . 
+ we demonstrate that the tc(vii)o4 
+ migration and chemical transformation of tc(vii)o4 are spatially and temporally 
+ controlled within a gdf . 
+ we find that the tc(vii)o4 migration is 
+ constrained by reducing conditions , with the
+-----:87
+the normal pregnancy immune response is critical to the health of the fetus and mother . 
+ changes in the maternal immune response during pregnancy can be studied using multiplex cytokine arrays , but longitudinal studies are lacking . 
+ we used multiplex arrays to evaluate the longitudinal changes in 42 cytokines in a cohort of 16 healthy primigravid women . 
+ we found that the cytokine profile changed little between the first and second trimesters of pregnancy , but did show a consistent increase in activity throughout the course of pregnancy . 
+ we also found that the proinflammatory interleukin ( il)-6 and anti - inflammatory il-10 were the most consistently elevated cytokines throughout pregnancy . 
+ we used unconditional growth modeling to determine within - subject correlation between repeated measurements and the changes in cytokine levels . 
+ the results of this study provide a comprehensive longitudinal profile of the normal pregnancy immune response .
+-----:88
+backgroundhigh intensity resistance exercise ( ree ) can cause damage to lipid membranes , proteins , deoxyribonucleic acid ( dna ) and other cellular components . 
+ the damage to lipid membranes , otherwise known as lipid peroxidation is defined as the oxidative deterioration of polyunsaturated fats in cellular lipid membranes caused by oxygen free radicals . 
+ the area of antioxidant supplementation and its ameliorating effects on exercise induced free radical damage ( including lipid peroxidation ) has attracted considerable interest in recent years.aimsthe primary objectives of the investigation were to determine : ( 1 ) whether a high intensity , whole body resistance exercise test ( ret ) caused lipid peroxidation measures to significantly increase , ( 2 ) the effects of a 2 week period of antioxidant vitamin supplementation ( vitamin e ) on the levels of lipid peroxidation measures caused by the ret , and ( 3 ) the impact that the training state ( untrained vs trained ) had on possible lipid peroxidation measures caused by the ret.methodstwenty-seven male participants were randomly assigned to an untrained ( n = 9 ) or trained ( n = 9 ) group . 
+ the trained group performed resistance exercise tests
+-----:89
+we report two cases of acromegaly with normal central corneal thickness ( cct ) and visual acuity , but low tear insulin - like growth factor-1 ( igf-1 ) levels . 
+ tear samples were collected atraumatically from the inferior tear meniscus of both eyes . 
+ serum igf-1 levels were also measured . 
+ tear igf-1 levels were 0.63 ng / ml and 389 ng / ml in the first and second cases , respectively . 
+ these tear igf-1 levels were lower than the normal values . 
+ the patients were diagnosed with acromegaly , and tear igf-1 levels were lower than the normal values . 
+ the patients underwent transsphenoidal adenectomy for the pituitary adenoma . 
+ three months after surgery the patients ' complete ophthalmological and visual field examination revealed normal . 
+ tear igf-1 levels are lower than the normal values in acromegaly patients , and low tear igf-1 levels may be associated with acromegaly .
+-----:90
+abstractasthma is a chronic syndrome characterized by reversible airway obstruction , airway inflammation , and airway hyperresponsiveness . 
+ the pathogenesis of migraine is only partially understood . 
+ this study investigated the association between asthma and migraine risk.we conducted a nationwide retrospective cohort study by using data retrieved from taiwan 's national health insurance research database . 
+ we identified 41,011 patients newly diagnosed with asthma between january 1 , 2000 and december 31 , 2005 . 
+ we selected patients who had received treatment involving inhaled corticosteroids , systemic ( oral or intravenous ) corticosteroids , or inhaled beta-2 agonists as the asthma group . 
+ for each patient with asthma , 4 insured persons without a diagnosis of asthma were frequency - matched according to sex , age , and index year with 4 insured persons without a diagnosis of asthma as the nonasthma group . 
+ the study outcomes were the incidences of migraine and comorbidity . 
+ the risk of migraine was evaluated using cox proportional hazards regression models.the adjusted hazard ratios ( ahrs ) of migraine for patients with asthma were 1.21 ( 95% confidence interval [ ci ] , 1.021.37 ) and 1.27 ( 95%
+-----:91
+objectives : debonding of brackets can cause enamel loss . 
+ the aim of this study was to assess the enamel cracks after debonding of brackets bonded with two different adhesive systems and also to evaluate enamel cracks after removing adhesive remnants and enamel polishing.materials and methods : sixty upper central incisors were randomly divided into two groups . in the first group , 
+ the buccal surface of each incisor was used as a control . in the second group , 
+ the same bracket was bonded with self - adhesive composite cement . in both groups , 
+ the brackets were debonded with rmo i-546 remover pliers . 
+ all the brackets were then incubated in distilled water at 37c for 24 hours to allow the material to set . 
+ the teeth were then sectioned longitudinally and the number of enamel cracks and the length and direction of each crack were recorded . 
+ the teeth were then polished with 37% basic fuchsin . 
+ the teeth were then viewed under a stereomicroscope to assess the number of visible cracks . 
+ the length and direction of each crack were also recorded . 
+ the data were analyzed using one - way anova
+-----:92
+osteopetrosis is a rare inherited bone disease characterized by increased bone mass . 
+ osteopetrosis is a heterogeneous disease , and the cause of this disease is unknown . 
+ osteoclasts are the main bone resorption cells , and defects in their differentiation and function lead to increased bone mass . 
+ the study of osteopetrosis has contributed to a better understanding of the mechanisms underlying the development of bone diseases . 
+ the identification of key molecules involved in the differentiation of osteoclasts and the study of the molecular mechanisms of osteoclast - mediated bone resorption have allowed the development of new therapeutic strategies .
+-----:93
+segmental copy - number variations ( cnvs ) are a common source of genetic variation among human populations . 
+ we examined cnvs in the population residing in hiroshima and nagasaki , japan using bacterial artificial chromosome ( bac ) array comparative genomic hybridization ( acgh ) . 
+ the cnvs observed in this population were characterized by a high degree of polymorphism . 
+ the most common cnv was a truncation of the truncation - containing region on chromosome 2 ( truncation - tb ) , followed by a deletion of the truncation - containing region on chromosome 4 ( deletion - tb ) , and a deletion of the truncation - containing region on chromosome 5 ( deletion - tb ) . 
+ the most common polymorphism was a truncation of the truncation - containing region on chromosome 4 ( deletion - tb ) , followed by a deletion of the truncation - containing region on chromosome 5 ( deletion - tb ) , and a deletion of the truncation - containing region on chromosome 4 ( deletion - tb 
+-----:94
+nuclear factor erythroid 2-related factor 2 ( nrf2 ) , a key transcription factor that regulates the cellular antioxidant response , plays a broader role in modulating acute inflammatory response . 
+ we investigated the role of nrf2 in cerebral inflammation following traumatic brain injury ( tbi ) . 
+ adult male mice were separated into four groups : group i , sham wild - type ( nrf2 + /+ ) ; group ii , injured wild - type ( nrf2 + /+ ) ; group iii , sham - deficient ( nrf2 / ) ; group iv , injured - deficient ( nrf2 / ) . 
+ we found that nrf2 ( + /+ ) mice exhibited reduced levels of cerebral tumor necrosis factor- ( tnf- ) , interleukin-1 ( il-1 ) , interleukin-6 ( il-6 ) , and intercellular adhesion molecule 1 ( icam-1 ) after tbi . 
+ nrf2 ( + / ) mice also exhibited reduced levels of nuclear factor kappa b ( nf-b ) , inducible nitric oxide synthase ( inos )
+-----:95
+the data revolution in healthcare is an offshoot of the vast amount of digital medical information that has now accumulated in electronic medical records . 
+ the vision is for a population data - driven knowledge system that generalizes from every patient s life , disease and treatment experiences to impute the best course of action for diagnosis , prognosis and treatment of future patients . 
+ the challenge is the transformation of the copious data into usable and useful medical knowledge . 
+ clinicians must already make sense of a diverse variety of data input streams in order to make clinical decisions . 
+ data from everyday activities ( financial transactions , cellphone and internet use , social media posts ) , the environment , and even the local government promise to provide even more clinically relevant information , but to what end ? and how can increasing amounts of data be incorporated into a system of already overburdened clinicians?this paper will discuss the general issue of data in critical care with a focus on the big data phenomenon that is sweeping healthcare .
+-----:96
+we conducted a regional antibiogram surveillance in illinois to determine the feasibility of using clinical microbiology standards institute guidelines for antimicrobial susceptibility testing . 
+ we found that local laboratories follow different recommendations for testing and reporting antimicrobial drug resistance than do national laboratories . 
+ a master antibiogram would allow a tertiary care institution to consider resistance patterns in hospitals referring patients and to select appropriate " presumptive " isolates for in vitro testing .
+-----:97
+
+ please cite this paper as : todd et al . 
+ ( 2012 ) aggregate hospitalization and death reporting activity during 2009 pandemic influenza a ( h1n1 ) . 
+ influenza and other respiratory viruses 6(3 ) , e16e17.the aggregate hospitalization and death reporting activity ( ahdra ) was established as part of a national surveillance strategy to collect timely and representative data describing 2009 ph1n1 infections in the united states . 
+ states and territories were asked to report weekly laboratoryconfirmed influenzaassociated hospitalizations and deaths from august 30 , 2009 through april 6 , 2010 . 
+ laboratoryconfirmed hospitalizations and deaths were analyzed for relative increase or decrease by state each week , and laboratoryconfirmed cumulative rates were used to describe the age distribution of ph1n1 infections . 
+ ahdra provided useful data to inform public health actions and response efforts .
+-----:98
+introduction : bilateral shoulder dislocation are most commonly posterior type . these are most commonly due to seizure disorder and electrocution . 
+ to best of our knowledge there are only few cases of similar kind are reported in literature.case report : we hereby report a interesting case of posttraumatic , bilateral anterior dislocation of shoulder without associated fracture in a 45 old women without any predisposing pathoanatomy.conclusion:a 45-year - old women presented to casualty with sudden onset of pain and restriction of movement in both shoulders fallowing trauma . 
+ immediately post trauma she had severe pain and restriction of both shoulders . on examination arms 
+ were abducted and externally rotated . 
+ there was loss of round contour of shoulder with increased vertical diameter of axilla anteriorly . 
+ there was no evidence of fracture in either arm . 
+ closed reduction was achieved by milch technique . 
+ patient was discharged in satisfactory condition .
+-----:99
+objectiveto examine the association between adolescent height standard deviation ( hd - sds ) and adult height sds ( sds ) in a large population - based birth cohort.research design and methodsdata were available for 746 men from the north slovenia study birth cohort . 
+ hd - sds was calculated as the difference between adolescent height sds ( at age 14 yr ) and adult height sds ( 36 yr ) . 
+ conditional hd - sds was calculated as hd - sds /(1 r ) , where r is the pearson correlation coefficient for the association between adolescent height sds and adult height sds . 
+ linear regression was used to examine the association between hd - sds and body composition outcomes , including whole - body fat and lean mass , android ( abdominal ) region fat mass , and gynoid region fat mass , and appendicular lean mass.resultsmean adolescent height sds was 1.79 ( 95% ci 1.722.11 ) kg / m2 . 
+ hd - sds was associated with a higher proportion of
